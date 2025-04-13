@@ -188,7 +188,7 @@ hgroup.search-animation {
     }
 }
 
-main:has(.results)>hgroup.search-animation {
+main:has(.result)>hgroup.search-animation {
     height: 0;
 }
 
