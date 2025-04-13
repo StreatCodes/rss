@@ -1,4 +1,4 @@
-{{ define "base" }}
+{{ define "header" }}
 <!DOCTYPE html>
 <html lang="en">
 
@@ -23,7 +23,9 @@
         <a class="link holo" href="/sign-up" style="margin-right: .5rem;">Sign up</a>
         <a class="link" href="/login">Login</a>
     </header>
-    {{ block "content" . }}{{ end }}
+{{ end }}
+
+{{ define "footer" }}
     <footer>
         <a href="https://github.com/StreatCodes/rss">
             <svg xmlns="http://www.w3.org/2000/svg" aria-label="Github" width="20" height="20" fill="white"
@@ -34,6 +36,5 @@
         </a>
     </footer>
 </body>
-
 </html>
 {{ end }}
