@@ -4,6 +4,7 @@ package atom
 
 import (
 	"encoding/xml"
+	"io"
 	"time"
 )
 
@@ -57,6 +58,12 @@ func Marshal(f *Feed) ([]byte, error) {
 		Feed:      f,
 	}
 	return xml.MarshalIndent(f1, "", "\t")
-	// b = bytes.ReplaceAll(b, []byte("></link>"), []byte("/>"))
-	// return b, err
+}
+
+func Decode(r io.Reader) (*Feed, error) {
+	var f feed
+	if err := xml.NewDecoder(r).Decode(&f); err != nil {
+		return nil, err
+	}
+	return f.Feed, nil
 }

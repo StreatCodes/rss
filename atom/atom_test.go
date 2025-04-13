@@ -5,6 +5,7 @@ import (
 	"encoding/xml"
 	"fmt"
 	"os"
+	"path/filepath"
 	"testing"
 	"time"
 )
@@ -48,5 +49,22 @@ func TestMarshal(t *testing.T) {
 	if !bytes.Equal(got, want) {
 		t.Errorf("oops")
 		fmt.Fprintln(os.Stderr, string(got))
+	}
+}
+
+func TestDecode(t *testing.T) {
+	names, err := filepath.Glob("testdata/*.xml")
+	if err != nil {
+		t.Fatal(err)
+	}
+	for _, name := range names {
+		f, err := os.Open(name)
+		if err != nil {
+			t.Fatal(err)
+		}
+		if _, err := Decode(f); err != nil {
+			t.Errorf("decode %s: %v", name, err)
+		}
+		f.Close()
 	}
 }
