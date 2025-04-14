@@ -1,0 +1,3674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xml:base="https://risky.biz/feeds/risky-business-news" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Risky Bulletin</title>
+        <description>Regular cybersecurity news updates from the Risky Business team...</description>
+        <link>https://risky.biz/</link>
+        <copyright>Copyright Risky Business Media 2007-2025</copyright>
+        <language>en</language>
+        <atom:link href="https://risky.biz/feeds/risky-business-news" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 11 Apr 2025 14:42:00 +1000</pubDate>
+        <lastBuildDate>Fri, 11 Apr 2025 14:42:00 +1000</lastBuildDate>
+        <itunes:image href="https://risky.biz/static/img/rb-news.png"/>
+        <itunes:author>risky.biz</itunes:author>
+        <itunes:category text="News">
+          <itunes:category text="Tech News"/>
+        </itunes:category>
+        <itunes:category text="Technology"/>
+        <itunes:owner>
+            <itunes:name>Risky.biz</itunes:name>
+            <itunes:email>editorial@risky.biz</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>false</itunes:explicit>
+        <generator>Jekyll v4.2.2</generator>
+        
+        
+        
+            
+        
+        <item>
+            <title>Risky Bulletin: Trump orders investigation into former CISA director Chris Krebs</title>
+            <pubDate>Fri, 11 Apr 2025 13:19:41 +1000</pubDate>
+            <link>https://risky.biz/RBNEWS410/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS410/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS410.mp3" length="6139248" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>364</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Trump orders investigation into former CISA director Chris Krebs, the US DOJ disbands its crypto crime team, NSO hires a new lobby team, and researchers raise the alarm on something called “slopsquatting”.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Trump orders investigation into former CISA director Chris Krebs, the US DOJ disbands its crypto crime team, NSO hires a new lobby team, and researchers raise the alarm on something called “slopsquatting”.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: MAGA's NSA purge will get messy</title>
+            <pubDate>Thu, 10 Apr 2025 12:13:45 +1000</pubDate>
+            <link>https://risky.biz/SRB116/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB116/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB116.mp3" length="20294081" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1265</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Tom Uren and Patrick Gray discuss Trump’s recent firing of General Timothy Haugh, the head of NSA and Cyber Command.  Tom dives into the implications and thinks why this is not good news for the agencies.
+
+They also discuss Europe losing faith in the US intelligence commitments that underpin transatlantic data flows. That would be bad news for US tech companies.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Tom Uren and Patrick Gray discuss Trump’s recent firing of General Timothy Haugh, the head of NSA and Cyber Command.  Tom dives into the implications and thinks why this is not good news for the agencies.</p>
+
+<p>They also discuss Europe losing faith in the US intelligence commitments that underpin transatlantic data flows. That would be bad news for US tech companies.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/fwXz27v6MB4">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Hackers leak data from major bulletproof hosting provider</title>
+            <pubDate>Wed, 09 Apr 2025 13:51:34 +1000</pubDate>
+            <link>https://risky.biz/RBNEWS409/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS409/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS409.mp3" length="7195314" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>431</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Hackers leak data from a major Russian bulletproof hosting provider, Australia deregisters 95 companies linked to cyber scams, the US Treasury gets hacked again, and Meta expands “teen accounts” to Facebook and Facebook Messenger.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Hackers leak data from a major Russian bulletproof hosting provider, Australia deregisters 95 companies linked to cyber scams, the US Treasury gets hacked again, and Meta expands “teen accounts” to Facebook and Facebook Messenger.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Between Two Nerds:  Feast or famine?</title>
+            <pubDate>Tue, 08 Apr 2025 07:27:30 +1000</pubDate>
+            <link>https://risky.biz/BTN115/</link>
+            <guid isPermaLink="true">https://risky.biz/BTN115/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN115.mp3" length="26193011" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1636</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this edition of Between Two Nerds Tom Uren and The Grugq look at the idea of ‘false scarcities’ in cyber security. Are bugs and talent rare? Or is our thinking blinkered?
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this edition of Between Two Nerds Tom Uren and The Grugq look at the idea of ‘false scarcities’ in cyber security. Are bugs and talent rare? Or is our thinking blinkered?</p>
+
+<p>This episode is also available on <a href="https://youtu.be/4VtEp1BMpCI">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Trump fires CyberCom and NSA head</title>
+            <pubDate>Mon, 07 Apr 2025 11:56:56 +1000</pubDate>
+            <link>https://risky.biz/RBNEWS408/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS408/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS408.mp3" length="6452340" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>384</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Trump fires NSA and CyberCom leadership, CISA looks likely to be halved in size, hackers hit Australian pension funds, and NIST gives up on old CVEs in its backlog.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Trump fires NSA and CyberCom leadership, CISA looks likely to be halved in size, hackers hit Australian pension funds, and NIST gives up on old CVEs in its backlog.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Android looks set to get its own Lockdown Mode</title>
+            <pubDate>Fri, 04 Apr 2025 13:11:13 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS407/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS407/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS407.mp3" length="5891488" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>349</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Android looks set to get its own Lockdown Mode, China overhauls cybersecurity and privacy laws, a crypto platform gets hacked for $70 million dollars, and Greece’s intel agency is set to hire more hackers.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Android looks set to get its own Lockdown Mode, China overhauls cybersecurity and privacy laws, a crypto platform gets hacked for $70 million dollars, and Greece’s intel agency is set to hire more hackers.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: North Korean IT workers head to Europe</title>
+            <pubDate>Thu, 03 Apr 2025 11:24:03 +1100</pubDate>
+            <link>https://risky.biz/SRB115/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB115/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB115.mp3" length="22263431" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1388</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Tom Uren and Patrick Gray discuss how North Korean IT worker scam is shifting towards Europe and employing tactics that make it more dangerous.
+
+They also discuss why Signalgate was a massive security failure. We learnt this week that US cabinet members were in multiple Signal groups discussing different topics. Phone hacking is not uncommon, an adversary states will be able to take advantage of the intelligence in these conversations.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Tom Uren and Patrick Gray discuss how North Korean IT worker scam is shifting towards Europe and employing tactics that make it more dangerous.</p>
+
+<p>They also discuss why Signalgate was a massive security failure. We learnt this week that US cabinet members were in multiple Signal groups discussing different topics. Phone hacking is not uncommon, an adversary states will be able to take advantage of the intelligence in these conversations.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/QkXN2fcKPj4">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: North Korean IT worker scams expand to Europe</title>
+            <pubDate>Wed, 02 Apr 2025 12:29:37 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS406/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS406/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS406.mp3" length="6454114" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>385</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A North Korean IT worker scheme pivots to Europe after a US crackdown, 24,000 IPs are looking for Palo Alto Networks VPNs, Gmail rolls out end-to-end encrypted emails for enterprise users, and hackers steal over $100 million via Coinbase phishing.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A North Korean IT worker scheme pivots to Europe after a US crackdown, 24,000 IPs are looking for Palo Alto Networks VPNs, Gmail rolls out end-to-end encrypted emails for enterprise users, and hackers steal over $100 million via Coinbase phishing.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Between Two Nerds:  The 800 pound gorilla</title>
+            <pubDate>Tue, 01 Apr 2025 07:35:26 +1100</pubDate>
+            <link>https://risky.biz/BTN114/</link>
+            <guid isPermaLink="true">https://risky.biz/BTN114/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN114.mp3" length="25518712" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1594</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this edition of Between Two Nerds Tom Uren and The Grugq look at all the strands of evidence that make people think NSA is a top-tier cyber actor.
+
+This episode is also available on Youtube
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this edition of Between Two Nerds Tom Uren and The Grugq look at all the strands of evidence that make people think NSA is a top-tier cyber actor.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/1pwf9cV9BX0">Youtube</a></p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Oracle's healthtech division hacked, customers extorted</title>
+            <pubDate>Mon, 31 Mar 2025 13:48:51 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS405/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS405/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS405.mp3" length="6453134" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>385</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Oracle’s Health Tech division gets hacked and its customers extorted, the Italian government admits it used Paragon to spy on an NGO, a WordPress feature is being abused to silently install malicious plugins, and the Dutch public prosecutor pulls systems offline after a cyber incident.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Oracle’s Health Tech division gets hacked and its customers extorted, the Italian government admits it used Paragon to spy on an NGO, a WordPress feature is being abused to silently install malicious plugins, and the Dutch public prosecutor pulls systems offline after a cyber incident.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Sponsored: Why hacked geolocation data is worrying</title>
+            <pubDate>Mon, 31 Mar 2025 09:03:17 +1100</pubDate>
+            <link>https://risky.biz/RBNEWSSI77/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWSSI77/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI77.mp3" length="9012097" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>562</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this Risky Bulletin sponsor interview Ed Currie from Kroll Cyber talks to Tom Uren about the recent hack of the Gravy Analytics geolocation data provider. He explains the hack and how geolocation data can be used by malicious actors.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this Risky Bulletin sponsor interview Ed Currie from Kroll Cyber talks to Tom Uren about the recent hack of the Gravy Analytics geolocation data provider. He explains the hack and how geolocation data can be used by malicious actors.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://www.kroll.com/en/insights/publications/cyber/cti-gravy-analytics">Kroll&apos;s report on the risks of geolocation hacks</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: France runs phishing test on 2.5 million students</title>
+            <pubDate>Fri, 28 Mar 2025 13:43:53 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS404/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS404/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS404.mp3" length="8671078" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>523</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                France runs a phishing test on two and a half million students, Google fixes a Chrome zero-day abused for espionage, China publishes new facial recognition rules, and the DragonForce ransomware group hacks two rivals.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>France runs a phishing test on two and a half million students, Google fixes a Chrome zero-day abused for espionage, China publishes new facial recognition rules, and the DragonForce ransomware group hacks two rivals.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: The Signalgate clown show</title>
+            <pubDate>Thu, 27 Mar 2025 12:19:36 +1100</pubDate>
+            <link>https://risky.biz/SRB114/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB114/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB114.mp3" length="14191155" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>884</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Tom Uren and Patrick Gray discuss how the Signalgate messages betray an alarming lack of security nous at the highest levels of the US natsec leadership. It’s head-scratchingly bad.
+
+They also discuss the possibility the Trump Administration will reconstitute the CSRB. The Board wasn’t perfect, but in our view it is better to get it started again rather than waiting for reviews to determine its perfect form.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Tom Uren and Patrick Gray discuss how the Signalgate messages betray an alarming lack of security nous at the highest levels of the US natsec leadership. It’s head-scratchingly bad.</p>
+
+<p>They also discuss the possibility the Trump Administration will reconstitute the CSRB. The Board wasn’t perfect, but in our view it is better to get it started again rather than waiting for reviews to determine its perfect form.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/n8YXiW8YrgI">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Cyberattack hits Ukraine's state railway</title>
+            <pubDate>Wed, 26 Mar 2025 14:25:00 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS403/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS403/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS403.mp3" length="6636818" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>396</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Ukraine’s state railway hit by a cyberattack, a ransomware attack reduces Malaysia’s largest airport to writing flight details on a whiteboard, buggy exploits put DrayTek routers in a reboot loop, and the NIST CVE backlog grows bigger despite efforts to address it.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Ukraine’s state railway hit by a cyberattack, a ransomware attack reduces Malaysia’s largest airport to writing flight details on a whiteboard, buggy exploits put DrayTek routers in a reboot loop, and the NIST CVE backlog grows bigger despite efforts to address it.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Between Two Nerds: The 0day fetish</title>
+            <pubDate>Tue, 25 Mar 2025 08:42:54 +1100</pubDate>
+            <link>https://risky.biz/BTN113/</link>
+            <guid isPermaLink="true">https://risky.biz/BTN113/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN113.mp3" length="23268849" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1453</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this edition of Between Two Nerds Tom Uren and The Grugq talk about why people studying cyber operations are fascinated by 0days. These are vulnerabilities or exploits that have been found in a system before the vendor or manufacturer is made aware of them and so therefore no fix exists.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about why people studying cyber operations are fascinated by 0days. These are vulnerabilities or exploits that have been found in a system before the vendor or manufacturer is made aware of them and so therefore no fix exists.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/Huz2lP-iW9s">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: US removes Tornado Cash sanctions</title>
+            <pubDate>Mon, 24 Mar 2025 12:37:51 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS402/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS402/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS402.mp3" length="7628200" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>458</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                The US removes Tornado Cash sanctions, the White House shifts cyber responsibility to state and local governments, a Michigan football coach is indicted for hacking, and Google sues a Maps scam syndicate.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>The US removes Tornado Cash sanctions, the White House shifts cyber responsibility to state and local governments, a Michigan football coach is indicted for hacking, and Google sues a Maps scam syndicate.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Sponsored: Sublime Security on trends and the rise of SVG abuse</title>
+            <pubDate>Mon, 24 Mar 2025 07:24:19 +1100</pubDate>
+            <link>https://risky.biz/RBNEWSSI76/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWSSI76/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI76.mp3" length="13666359" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>852</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this Risky Business News sponsor interview, Catalin Cimpanu talks with Josh Kamdjou, co-founder and CEO of Sublime Security. Josh goes over recent trends in email badness, such as the increase in QR code abuse and the rise of SVG smuggling.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this Risky Business News sponsor interview, Catalin Cimpanu talks with Josh Kamdjou, co-founder and CEO of Sublime Security. Josh goes over recent trends in email badness, such as the increase in QR code abuse and the rise of SVG smuggling.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://sublime.security/blog/scripting-vector-grifts-svg-phishing-with-smuggled-js-and-adversary-in-the-middle-tactics/">Scripting Vector Grifts: SVG phishing with smuggled JS and adversary in the middle tactics</a></li>
+										
+                    	<li><a href="https://sublime.security/blog/base64-encoding-an-svg-attack-within-an-iframe-and-hiding-it-all-in-an-eml-attachment/">Base64-encoding an SVG attack within an iframe and hiding it all in an EML attachment</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Hacktivists claim cyber-sabotage of 116 Iranian ships</title>
+            <pubDate>Fri, 21 Mar 2025 13:33:49 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS401/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS401/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS401.mp3" length="6423274" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>383</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Hacktivists sabotage over 100 Iranian ships, Iran calls out China for hacking,
+six new Paragon customers come to light, and North Korea creates a new cyber unit.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Hacktivists sabotage over 100 Iranian ships, Iran calls out China for hacking,
+six new Paragon customers come to light, and North Korea creates a new cyber unit.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: China's MSS gets personal</title>
+            <pubDate>Thu, 20 Mar 2025 13:47:15 +1100</pubDate>
+            <link>https://risky.biz/SRB113/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB113/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB113.mp3" length="18443597" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1150</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Tom Uren and Patrick Gray discuss how China’s Ministry of State Security is increasingly doxxing and threatening Taiwanese APT operators. In some ways this mirrors the US strategy of naming and shaming Chinese cyber operators in indictments that contain lots of supporting information. But although MSS statements are filled with propaganda rather than technical detail, naming Taiwanese military hackers has some bite.
+
+They also discuss Russia’s ‘shadow war’ sabotage campaign across Europe. The Russian campaign mostly relies on traditional sabotage and finding local proxies to throw bombs. But it does make sense for Western governments to respond with destructive cyber operations.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Tom Uren and Patrick Gray discuss how China’s Ministry of State Security is increasingly doxxing and threatening Taiwanese APT operators. In some ways this mirrors the US strategy of naming and shaming Chinese cyber operators in indictments that contain lots of supporting information. But although MSS statements are filled with propaganda rather than technical detail, naming Taiwanese military hackers has some bite.</p>
+
+<p>They also discuss Russia’s ‘shadow war’ sabotage campaign across Europe. The Russian campaign mostly relies on traditional sabotage and finding local proxies to throw bombs. But it does make sense for Western governments to respond with destructive cyber operations.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/Umj3OpozCdY">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://www.csis.org/analysis/russias-shadow-war-against-west">CSIS report on Russia&apos;s &apos;Shadow War&apos;</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Google buys Wiz for $32 billion</title>
+            <pubDate>Wed, 19 Mar 2025 14:30:07 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS400/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS400/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS400.mp3" length="5805656" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>344</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Google buys Wiz for $32 billion, China attributes the Poison Ivy APT group to the Taiwanese Military, APT groups abuse a Windows zero-day and a judge tells CISA to reinstate fired workers.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Google buys Wiz for $32 billion, China attributes the Poison Ivy APT group to the Taiwanese Military, APT groups abuse a Windows zero-day and a judge tells CISA to reinstate fired workers.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Between Two Nerds: Sowing discord by being nice!</title>
+            <pubDate>Tue, 18 Mar 2025 08:50:47 +1100</pubDate>
+            <link>https://risky.biz/BTN112/</link>
+            <guid isPermaLink="true">https://risky.biz/BTN112/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN112.mp3" length="25937663" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1620</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this edition of Between Two Nerds Tom Uren and The Grugq talk about how offensive cyber operations could do so much more than just ‘deny, disrupt, degrade and destroy’. Grugq thinks this thinking is rooted in military culture and he wonders why cyber operations are always so mean.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about how offensive cyber operations could do so much more than just ‘deny, disrupt, degrade and destroy’. Grugq thinks this thinking is rooted in military culture and he wonders why cyber operations are always so mean.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/h09Szw8X5i0">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: GitHub supply chain attack leaks secrets</title>
+            <pubDate>Mon, 17 Mar 2025 09:59:35 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS399/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS399/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS399.mp3" length="8424602" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>508</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A GitHub supply chain attack leaks secrets, the White House tells federal agencies to stop firing cyber staff, Germany exempts cybersecurity from debt limits, and the RCS standard adds support for end-to-end encryption.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A GitHub supply chain attack leaks secrets, the White House tells federal agencies to stop firing cyber staff, Germany exempts cybersecurity from debt limits, and the RCS standard adds support for end-to-end encryption.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Sponsored: Using carrots and sticks to get more secure software</title>
+            <pubDate>Mon, 17 Mar 2025 08:43:10 +1100</pubDate>
+            <link>https://risky.biz/RBNEWSSI75/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWSSI75/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI75.mp3" length="12746510" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>795</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this Risky Bulletin sponsor interview Matt Muller, field CISO of Tines, explains how governments are using carrots and sticks to improve the security of enterprise software. Matt discusses CISA’s ‘Secure by Design’ pledge and the UK NCSC’s effort to quantify ‘unforgivable bugs’
+
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this Risky Bulletin sponsor interview Matt Muller, field CISO of Tines, explains how governments are using carrots and sticks to improve the security of enterprise software. Matt discusses CISA’s ‘Secure by Design’ pledge and the UK NCSC’s effort to quantify ‘unforgivable bugs’</p>
+
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: FBI says online file converters are nasty</title>
+            <pubDate>Fri, 14 Mar 2025 14:01:56 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS398/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS398/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS398.mp3" length="6765510" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>405</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                The FBI warns of online file converters that distribute malware, China backdoors Juniper router, a wave of ransomware hits Taiwan, and North Korean spyware slips into the Play Store.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>The FBI warns of online file converters that distribute malware, China backdoors Juniper router, a wave of ransomware hits Taiwan, and North Korean spyware slips into the Play Store.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: Outside America, Musk's X is a foreign influence threat</title>
+            <pubDate>Thu, 13 Mar 2025 12:02:17 +1100</pubDate>
+            <link>https://risky.biz/SRB112/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB112/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB112.mp3" length="14808321" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>923</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Tom Uren and Patrick Gray discuss how X is actively engaging in political interference outside the US. The risks mirror those of TikTok. American legislators moved against TikTok because it could potentially be a powerful tool for the Chinese government to interfere with American political discourse. X is a realised threat, not a potential one, so we expect that foreign governments will start to consider a ban.
+
+They also explore why mass firing of probationary employees in NSA and intelligence agencies is particularly damaging.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Tom Uren and Patrick Gray discuss how X is actively engaging in political interference outside the US. The risks mirror those of TikTok. American legislators moved against TikTok because it could potentially be a powerful tool for the Chinese government to interfere with American political discourse. X is a realised threat, not a potential one, so we expect that foreign governments will start to consider a ban.</p>
+
+<p>They also explore why mass firing of probationary employees in NSA and intelligence agencies is particularly damaging.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/R6DkIbJw4Ig">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Pro-Palestinian hacktivists claim X DDoS</title>
+            <pubDate>Wed, 12 Mar 2025 12:37:36 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS397/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS397/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS397.mp3" length="4776946" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>280</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A Pro Palestinian group claims credit for the X DDoS, CISA gets a new director as DOGE fires its red teams, and Asian scam compounds keep growing.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A Pro Palestinian group claims credit for the X DDoS, CISA gets a new director as DOGE fires its red teams, and Asian scam compounds keep growing.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Between Two Nerds: A European cyber command</title>
+            <pubDate>Tue, 11 Mar 2025 07:26:37 +1100</pubDate>
+            <link>https://risky.biz/BTN111/</link>
+            <guid isPermaLink="true">https://risky.biz/BTN111/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN111.mp3" length="32219514" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>2013</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this edition of Between Two Nerds Tom Uren and The Grugq talk about what Europe should do given that US security guarantees are evaporating. Should Europe grow its cyber capabilities, what it would get out of it and how should it go about doing it?
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about what Europe should do given that US security guarantees are evaporating. Should Europe grow its cyber capabilities, what it would get out of it and how should it go about doing it?</p>
+
+<p>This episode is also available on <a href="https://youtu.be/FeGTxVuyOLI">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://www.zetter-zeroday.com/did-trump-admin-order-u-s-cyber-command-and-cisa-to-stand-down-on-russia/">Zero Day on the Trump Administration order that US Cyber Command stand down it&apos;s Russian cyber operations</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Major browsers patch passkey phishing flaw</title>
+            <pubDate>Mon, 10 Mar 2025 13:59:57 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS396/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS396/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS396.mp3" length="7682462" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>462</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Mobile browsers patch a passkey phishing vector, researchers find undocumented commands in a common IoT chip, the US government cuts election security funding, and a hacker steals – and then returns – funds from DeFi platform 1inch.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Mobile browsers patch a passkey phishing vector, researchers find undocumented commands in a common IoT chip, the US government cuts election security funding, and a hacker steals – and then returns – funds from DeFi platform 1inch.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Sponsored: GreyNoise on 2024's mass internet scan trends</title>
+            <pubDate>Mon, 10 Mar 2025 09:34:04 +1100</pubDate>
+            <link>https://risky.biz/RBNEWSSI74/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWSSI74/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI74.mp3" length="12160935" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>758</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this Risky Business News sponsor interview, Catalin Cimpanu talks with Andrew Morris, founder of security firm GreyNoise. Andrew talks about the major trends in mass internet scanning and exploitation, as per GreyNoise’s yearly threat report.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this Risky Business News sponsor interview, Catalin Cimpanu talks with Andrew Morris, founder of security firm GreyNoise. Andrew talks about the major trends in mass internet scanning and exploitation, as per GreyNoise’s yearly threat report.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://www.greynoise.io/blog/2025-mass-internet-exploitation-report
+">GreyNoise 2025 Mass Internet Exploitation Report: Attackers Are Moving Faster Than Ever — Are You Ready?
+</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: US indicts i-Soon and APT27 hackers</title>
+            <pubDate>Fri, 07 Mar 2025 13:23:01 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS395/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS395/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS395.mp3" length="5469192" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>324</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                The US indicts the i-Soon and APT27 hackers, the BADBOX botnet gets disrupted again,authorities seize the Garantex crypto exchange, and the FBI arrests hackers who stole Taylor Swift concert tickets.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>The US indicts the i-Soon and APT27 hackers, the BADBOX botnet gets disrupted again,authorities seize the Garantex crypto exchange, and the FBI arrests hackers who stole Taylor Swift concert tickets.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: Starlink an internet lifeline for pig butchering compounds</title>
+            <pubDate>Thu, 06 Mar 2025 14:07:47 +1100</pubDate>
+            <link>https://risky.biz/SRB111/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB111/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB111.mp3" length="31778573" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1323</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this podcast Tom Uren and Patrick Gray discuss how Starlink is providing an internet lifeline for scam compounds that have had their internet access cut by Thai authorities. Starlink has a very poor track record dealing with unauthorised use, but it is time for the company to develop the processes to keep on top of these problems.
+
+They also discuss how President Trump’s actions that favour Russia will make Five Eyes partners take stock, particularly when it comes to HUMINT intelligence sharing.
+
+Finally they examine the did-it-happen-or-not stand-down of US Cyber Command’s Russian operations.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this podcast Tom Uren and Patrick Gray discuss how Starlink is providing an internet lifeline for scam compounds that have had their internet access cut by Thai authorities. Starlink has a very poor track record dealing with unauthorised use, but it is time for the company to develop the processes to keep on top of these problems.</p>
+
+<p>They also discuss how President Trump’s actions that favour Russia will make Five Eyes partners take stock, particularly when it comes to HUMINT intelligence sharing.</p>
+
+<p>Finally they examine the did-it-happen-or-not stand-down of US Cyber Command’s Russian operations.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/UN2M2tjRhZE">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Research turns any Bluetooth device into an AirTag</title>
+            <pubDate>Wed, 05 Mar 2025 12:02:45 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS394/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS394/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS394.mp3" length="5959030" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>354</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Researchers turn any Bluetooth device into an AirTag tracker, VMware patches three ESXi zero-days, France debates encryption backdoors, and a fifth of the stolen Bybit funds are now untraceable.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Researchers turn any Bluetooth device into an AirTag tracker, VMware patches three ESXi zero-days, France debates encryption backdoors, and a fifth of the stolen Bybit funds are now untraceable.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>RBTALKS6: Will Thomas on the Black Basta leaks</title>
+            <pubDate>Tue, 04 Mar 2025 15:52:56 +1100</pubDate>
+            <link>https://risky.biz/RBTALKS6/</link>
+            <guid isPermaLink="true">https://risky.biz/RBTALKS6/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBTALKS6.mp3" length="24114089" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1506</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this Risky Business Talks interview we invited Will Thomas to talk about the recent leak of internal chats from the Black Basta ransomware group. Will is a SANS Instructor, co-author of the SANS FOR589 course, and the co-founder of a community research project for CTI analysts called Curated Intelligence. Will walks us through the Black Basta leak and uses the group’s attack on US healthcare provider Ascension to break down how the gang operated.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this Risky Business Talks interview we invited Will Thomas to talk about the recent leak of internal chats from the Black Basta ransomware group. Will is a SANS Instructor, co-author of the SANS FOR589 course, and the co-founder of a community research project for CTI analysts called Curated Intelligence. Will walks us through the Black Basta leak and uses the group’s attack on US healthcare provider Ascension to break down how the gang operated.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://risky.biz/risky-bulletin-blackbasta-implodes-internal-chats-leak-online/">Risky Bulletin: BlackBasta implodes, internal chats leak online</a></li>
+										
+                    	<li><a href="https://x.com/PRODAFT/status/1892572675857420335">BlackBasta’s internal chats just got exposed</a></li>
+										
+                    	<li><a href="https://github.com/D4RK-R4BB1T/BlackBasta-Chats/">BlackBasta Chat Logs</a></li>
+										
+                    	<li><a href="https://chatgpt.com/g/g-67b80f8b69f08191923d8e6c3fb929b6-blackbastagpt">BlackBastaGPT</a></li>
+										
+                    	<li><a href="https://blog.bushidotoken.net/2025/02/blackbasta-leaks-lessons-from-ascension.html">BlackBasta Leaks: Lessons from the Ascension Health attack</a></li>
+										
+                    	<li><a href="https://www.kelacyber.com/blog/black-basta-leak-how-ransomware-operators-gain-access/">Inside the Black Basta Leak: How Ransomware Operators Gain Access</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Between Two Nerds: NSA's 9 to 5 hacking campaign</title>
+            <pubDate>Tue, 04 Mar 2025 08:07:39 +1100</pubDate>
+            <link>https://risky.biz/BTN110/</link>
+            <guid isPermaLink="true">https://risky.biz/BTN110/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN110.mp3" length="34089215" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>2129</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this edition of Between Two Nerds Tom Uren and The Grugq take a deep dive into incident response reports from Chinese cybersecurity firms that attribute the hack of one of the country’s top seven defence universities to the US National Security Agency. These reports were collated and translated into English by the security researcher known as Inversecos (https://x.com/inversecos).
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this edition of Between Two Nerds Tom Uren and The Grugq take a deep dive into incident response reports from Chinese cybersecurity firms that attribute the hack of one of the country’s top seven defence universities to the US National Security Agency. These reports were collated and translated into English by the security researcher known as Inversecos (https://x.com/inversecos).</p>
+
+<p>This episode is also available on <a href="https://www.youtube.com/watch?v=WPaBeBm3OeQ">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html">NSA (Equation Group) TTPs from a Chinese lens</a></li>
+										
+                    	<li><a href="https://unitracker.aspi.org.au/universities/northwestern-polytechnical-university/">Northwestern Polytechnical University at the China Defence Universities tracker</a></li>
+										
+                    	<li><a href="https://youtu.be/dvSTj31CPcI?t=2350">Risky Business podcast discussion with Inversecos</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Trump admin halts Russia cyber operations</title>
+            <pubDate>Mon, 03 Mar 2025 13:22:48 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS393/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS393/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS393.mp3" length="7529272" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>453</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                The Trump administration stops treating Russian hackers as a threat, Meta seeks a permanent NSO injunction, new Cellebrite zero-days come to light, and big name Russian cyber criminals get … home detention.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>The Trump administration stops treating Russian hackers as a threat, Meta seeks a permanent NSO injunction, new Cellebrite zero-days come to light, and big name Russian cyber criminals get … home detention.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Sponsored: Prowler on the Open Cloud Security Movement</title>
+            <pubDate>Mon, 03 Mar 2025 09:52:58 +1100</pubDate>
+            <link>https://risky.biz/RBNEWSSI73/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWSSI73/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI73.mp3" length="13362567" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>833</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this Risky Business News sponsor interview, Catalin Cimpanu talks with Toni de la Fuente, founder and CEO of cloud security firm Prowler. Toni talks about his company’s latest effort, the Open Cloud Security Movement, an initiative to get more cloud security vendors to open-source their core projects.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this Risky Business News sponsor interview, Catalin Cimpanu talks with Toni de la Fuente, founder and CEO of cloud security firm Prowler. Toni talks about his company’s latest effort, the Open Cloud Security Movement, an initiative to get more cloud security vendors to open-source their core projects.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://www.opencloudsecurity.org">Open Cloud Security</a></li>
+										
+                    	<li><a href="https://github.com/prowler-cloud/prowler">Prowler on Github</a></li>
+										
+                    	<li><a href="https://www.youtube.com/watch?v=aQqqT7LraxI">Risky Biz Product demo: Prowler, the free and open source cloud security platform</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Cellebrite fires Serbia as a customer</title>
+            <pubDate>Fri, 28 Feb 2025 13:38:30 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS392/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS392/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS392.mp3" length="6748110" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>404</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Cellebrite bans Serbia from using its products, Chinese hackers breached the Belgian security service, the Republican National Committee hid a Chinese hack and Microsoft removes malicious extensions from the VSCode Marketplace.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Cellebrite bans Serbia from using its products, Chinese hackers breached the Belgian security service, the Republican National Committee hid a Chinese hack and Microsoft removes malicious extensions from the VSCode Marketplace.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: Canada's expulsion from Five Eyes would be a disaster</title>
+            <pubDate>Thu, 27 Feb 2025 14:31:45 +1100</pubDate>
+            <link>https://risky.biz/SRB110/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB110/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB110.mp3" length="23539433" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1458</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Tom Uren and Patrick Gray talk about the White House apparently considering kicking Canada out of the Five Eyes intelligence alliance to apply pressure on the country. It’s a terrible idea and even thinking about it undermines the strength of the alliance.
+
+They also discuss Sweden’s proposed legislation that would order apps like WhatsApp and Signal to store messages so they could be provided under warrant to authorities. The story is a vignette of the ongoing encryption debate, but we think apps like Signal will leave the country rather than comply.
+
+Finally, they talk about how the illicit cryptocurrency ecosystem is evolving in response to government action such as takedowns and sanctions.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Tom Uren and Patrick Gray talk about the White House apparently considering kicking Canada out of the Five Eyes intelligence alliance to apply pressure on the country. It’s a terrible idea and even thinking about it undermines the strength of the alliance.</p>
+
+<p>They also discuss Sweden’s proposed legislation that would order apps like WhatsApp and Signal to store messages so they could be provided under warrant to authorities. The story is a vignette of the ongoing encryption debate, but we think apps like Signal will leave the country rather than comply.</p>
+
+<p>Finally, they talk about how the illicit cryptocurrency ecosystem is evolving in response to government action such as takedowns and sanctions.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/NVCkBTgVX0o">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Signal threatens to leave Sweden over backdoor request</title>
+            <pubDate>Wed, 26 Feb 2025 14:29:03 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS391/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS391/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS391.mp3" length="6990202" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>419</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Signal threatens to leave Sweden over backdoor request, the EU sanctions a North Korean general linked to two APTs, Australia bans Kaspersky products on government systems and Google will use QR codes for Gmail authentication.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Signal threatens to leave Sweden over backdoor request, the EU sanctions a North Korean general linked to two APTs, Australia bans Kaspersky products on government systems and Google will use QR codes for Gmail authentication.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Between Two Nerds: Hacking's first principles</title>
+            <pubDate>Tue, 25 Feb 2025 09:40:19 +1100</pubDate>
+            <link>https://risky.biz/BTN109/</link>
+            <guid isPermaLink="true">https://risky.biz/BTN109/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN109.mp3" length="28691708" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1792</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this edition of Between Two Nerds Tom, Uren and The Grugq examine the fundamental principles of network exploitation as described in Matthew Monte’s ‘Network Attacks and Exploitation: A Framework’ book using recent hacks as case studies.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this edition of Between Two Nerds Tom, Uren and The Grugq examine the fundamental principles of network exploitation as described in Matthew Monte’s ‘Network Attacks and Exploitation: A Framework’ book using recent hacks as case studies.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/XEXgO8LzdP8">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://www.wiley.com/en-us/Network+Attacks+and+Exploitation%3A+A+Framework-p-9781118987124">Network Attacks and Exploitation: A Framework</a></li>
+										
+                    	<li><a href="https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger">Google&apos;s Signal hacking report</a></li>
+										
+                    	<li><a href="https://arstechnica.com/information-technology/2025/02/russian-spies-use-device-code-phishing-to-hijack-microsoft-accounts/">Device code phishing</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: North Korean hackers steal $1.5 billion from Bybit</title>
+            <pubDate>Mon, 24 Feb 2025 13:11:18 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS390/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS390/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS390.mp3" length="6940626" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>416</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                North Korean hackers steal one and a half billion dollars from Bybit, Apple disables iCloud backup encryption in the UK, stream-jacking hits the e-sports world and Palau faces its third ransomware attack in six years.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>North Korean hackers steal one and a half billion dollars from Bybit, Apple disables iCloud backup encryption in the UK, stream-jacking hits the e-sports world and Palau faces its third ransomware attack in six years.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Sponsored: Nucleus Security on asset correlation and asset linking</title>
+            <pubDate>Mon, 24 Feb 2025 08:43:51 +1100</pubDate>
+            <link>https://risky.biz/RBNEWSSI72/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWSSI72/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI72.mp3" length="11912218" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>743</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this Risky Business News sponsor interview, Catalin Cimpanu talks with Aaron Attarzadeh, Enterprise Security Engineer at Nucleus. Aaron goes into new concepts for the vulnerability management scene, such as asset correlation and asset linking.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this Risky Business News sponsor interview, Catalin Cimpanu talks with Aaron Attarzadeh, Enterprise Security Engineer at Nucleus. Aaron goes into new concepts for the vulnerability management scene, such as asset correlation and asset linking.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: BlackBasta implodes, internal chats leak online</title>
+            <pubDate>Fri, 21 Feb 2025 12:33:36 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS389/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS389/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS389.mp3" length="6033856" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>360</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                The BlackBasta ransomware group implodes, Russian military hackers target Signal with QR codes, Microsoft patches a Power Pages zero-day, and Meta sues a man who hacked accounts and extorted users.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>The BlackBasta ransomware group implodes, Russian military hackers target Signal with QR codes, Microsoft patches a Power Pages zero-day, and Meta sues a man who hacked accounts and extorted users.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: Why America needs its own Salt Typhoon</title>
+            <pubDate>Thu, 20 Feb 2025 14:46:47 +1100</pubDate>
+            <link>https://risky.biz/SRB109/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB109/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB109.mp3" length="20391149" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1261</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this podcast Tom Uren and Patrick Gray talk about the idea of launching a retaliatory campaign to hack Chinese telcos in response to Salt Typhoon’s targeting of US ones. US Senator Mark Warner floated the idea as a way to persuade the Chinese government to pull back Salt Typhoon, but we think that kind of campaign has merit regardless.
+
+They also discuss how Samoa’s CERT calling out APT40 is a big deal. It’s striking to see a small country of 200,000 people calling out Chinese hacking.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this podcast Tom Uren and Patrick Gray talk about the idea of launching a retaliatory campaign to hack Chinese telcos in response to Salt Typhoon’s targeting of US ones. US Senator Mark Warner floated the idea as a way to persuade the Chinese government to pull back Salt Typhoon, but we think that kind of campaign has merit regardless.</p>
+
+<p>They also discuss how Samoa’s CERT calling out APT40 is a big deal. It’s striking to see a small country of 200,000 people calling out Chinese hacking.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/DeeFucTQTiE">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Insight Partners discloses security breach</title>
+            <pubDate>Wed, 19 Feb 2025 12:04:40 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS388/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS388/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS388.mp3" length="4380418" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>256</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                VC giant Insight Partners gets social engineered, OpenSSH patches an attacker-in-the-middle bug, Ecuador’s parliament hit by cyberattacks, and a Monero zero-day awaits a patch.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>VC giant Insight Partners gets social engineered, OpenSSH patches an attacker-in-the-middle bug, Ecuador’s parliament hit by cyberattacks, and a Monero zero-day awaits a patch.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Between Two Nerds: Is 39 vulnerabilities a lot?</title>
+            <pubDate>Tue, 18 Feb 2025 07:09:56 +1100</pubDate>
+            <link>https://risky.biz/BTN108/</link>
+            <guid isPermaLink="true">https://risky.biz/BTN108/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN108.mp3" length="28881790" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1804</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this edition of Between Two Nerds Tom Uren and The Grugq talk about the United State’s Vulnerabilities Equities Program, which balances the need for intelligence collection with the need to protect the public. The government recently revealed that in 2023 it released 39 vulnerabilities, but what does this really tell us?
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about the United State’s Vulnerabilities Equities Program, which balances the need for intelligence collection with the need to protect the public. The government recently revealed that in 2023 it released 39 vulnerabilities, but what does this really tell us?</p>
+
+<p>This episode is also available on <a href="https://youtu.be/AQtO7bE16VA">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://www.wyden.senate.gov/imo/media/doc/fy23_unclassified_vep_annual_reportpdf.pdf">The unclassified VEP appendix</a></li>
+										
+                    	<li><a href="https://www.zetter-zeroday.com/u-s-government-disclosed-39-zero-day-vulnerabilities-in-2023-per-first-ever-report/">Kim Zetter&apos;s Zero Day substack</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Sandworm deploys Tor nodes on hacked networks</title>
+            <pubDate>Mon, 17 Feb 2025 10:51:04 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS387/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS387/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS387.mp3" length="7680302" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>463</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Sandworm deploys Tor nodes on hacked networks, the UK drops military training for cyber staff, Salt Typhoon’s hacking spree continues, and Russian APTs adopt device code phishing.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Sandworm deploys Tor nodes on hacked networks, the UK drops military training for cyber staff, Salt Typhoon’s hacking spree continues, and Russian APTs adopt device code phishing.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Sponsored: Rad Security on new AI adoption risks for enterprises</title>
+            <pubDate>Mon, 17 Feb 2025 10:03:27 +1100</pubDate>
+            <link>https://risky.biz/RBNEWSSI71/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWSSI71/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI71.mp3" length="11898105" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>742</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this Risky Business News sponsor interview, Catalin Cimpanu talks with Jimmy Mesta, CTO and Co-Founder of Rad Security (formerly KSOC). Jimmy talks about how companies adopting new AI-based technologies may accidentally expose their infrastructure and data to new threats.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this Risky Business News sponsor interview, Catalin Cimpanu talks with Jimmy Mesta, CTO and Co-Founder of Rad Security (formerly KSOC). Jimmy talks about how companies adopting new AI-based technologies may accidentally expose their infrastructure and data to new threats.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://www.linkedin.com/posts/jimmymesta_i-discovered-a-fun-party-trick-for-the-next-activity-7290513963467816960-qOQn/">I discovered a fun party trick for the next time you get an AI phone call</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: Governments are losing the crypto wars</title>
+            <pubDate>Thu, 13 Feb 2025 12:04:43 +1100</pubDate>
+            <link>https://risky.biz/SRB108/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB108/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB108.mp3" length="18007793" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1112</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this podcast Tom Uren and Patrick Gray talk about Apple’s refusal to obey a UK government order to provide the capability to access to encrypted iCloud data. Its the latest round in the ongoing government vs technology fights over warrant-proof encryption, and again it looks like governments will lose.
+
+They also talk about good news in the fight against ransomware. Government actions are putting pressure on the cyber criminal ecosystem, splintering groups and even making it hard to for crooks to convert cryptocurrency to hard cash.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this podcast Tom Uren and Patrick Gray talk about Apple’s refusal to obey a UK government order to provide the capability to access to encrypted iCloud data. Its the latest round in the ongoing government vs technology fights over warrant-proof encryption, and again it looks like governments will lose.</p>
+
+<p>They also talk about good news in the fight against ransomware. Government actions are putting pressure on the cyber criminal ecosystem, splintering groups and even making it hard to for crooks to convert cryptocurrency to hard cash.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/LNX1o0miA1I">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Between Two Nerds: A Paragon of virtue</title>
+            <pubDate>Tue, 11 Feb 2025 08:39:41 +1100</pubDate>
+            <link>https://risky.biz/BTN107/</link>
+            <guid isPermaLink="true">https://risky.biz/BTN107/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN107.mp3" length="21679861" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1354</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this edition of Between Two Nerds Tom Uren and The Grugq talk about Israeli spyware vendor Paragon, how and why it positions itself to sell to the US market, and how its capabilities might work.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about Israeli spyware vendor Paragon, how and why it positions itself to sell to the US market, and how its capabilities might work.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/lsLx_lezmVs">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://techcrunch.com/2025/01/31/whatsapp-says-it-disrupted-a-hacking-campaign-targeting-journalists-with-spyware/">TechCrunch report</a></li>
+										
+                    	<li><a href="https://x.com/sherrwood9/status/1886053557880951253">The tweet we discuss</a></li>
+										
+                    	<li><a href="https://www.theguardian.com/technology/2025/feb/06/owner-of-spyware-used-in-alleged-whatsapp-breach-ends-contract-with-italy">Dropping Italy as a customer</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Browser extension supply chain attack hits AdsPower</title>
+            <pubDate>Fri, 07 Feb 2025 13:03:23 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS386/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS386/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS386.mp3" length="6240686" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>373</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://risky.biz/risky-bulletin-supply-chain-attack-at-adspower-browser-platform/">Risky Bulletin: Supply chain attack at AdsPower browser platform</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: DeepSeek a boon for Chinese APTs</title>
+            <pubDate>Thu, 06 Feb 2025 12:21:34 +1100</pubDate>
+            <link>https://risky.biz/SRB107/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB107/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB107a.mp3" length="17853107" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1103</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                UPDATED AUDIO: An earlier version of this podcast audio contained an editing mistake that desynchronised Patrick and Tom’s audio.
+
+In this podcast Tom Uren and Patrick Gray talk about the cyber espionage implications of Chinese AI firm DeepSeek’s recently released models. They will certainly be picked up by various APT crews to try and accelerate their campaigns.
+
+They also discuss the UK NCSC’s attempt to quantify ‘comedy bugs’ and whether EU sanctions against Russian military intelligence officers for a five-year-old cyber espionage campaign targeting Estonia are pointless.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p><em>UPDATED AUDIO: An earlier version of this podcast audio contained an editing mistake that desynchronised Patrick and Tom’s audio.</em></p>
+
+<p>In this podcast Tom Uren and Patrick Gray talk about the cyber espionage implications of Chinese AI firm DeepSeek’s recently released models. They will certainly be picked up by various APT crews to try and accelerate their campaigns.</p>
+
+<p>They also discuss the UK NCSC’s attempt to quantify ‘comedy bugs’ and whether EU sanctions against Russian military intelligence officers for a five-year-old cyber espionage campaign targeting Estonia are pointless.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/qltnlvvlCTE">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: UK Prime Minister's personal email hacked by Russia</title>
+            <pubDate>Wed, 05 Feb 2025 11:53:51 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS385/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS385/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS385.mp3" length="6695024" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>401</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://risky.biz/risky-bulletin-crypto-stealer-makes-it-on-the-ios-app-store/">Risky Bulletin: Crypto-stealer makes it on the iOS App Store</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Between Two Nerds: How the internet gets Salt Typhoon wrong</title>
+            <pubDate>Tue, 04 Feb 2025 08:22:48 +1100</pubDate>
+            <link>https://risky.biz/BTN106/</link>
+            <guid isPermaLink="true">https://risky.biz/BTN106/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN106.mp3" length="21504010" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1343</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this edition of Between Two Nerds Tom Uren and The Grugq talk about how the compromise of US telecommunications companies by Chinese hackers has very little to do with US government lawful intercept laws.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about how the compromise of US telecommunications companies by Chinese hackers has very little to do with US government lawful intercept laws.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/iDUB0v4I_Rg">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: US authorities sound the alarm on a medical device backdoor</title>
+            <pubDate>Mon, 03 Feb 2025 11:08:15 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS384/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS384/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS384.mp3" length="6540060" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>392</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://risky.biz/risky-bulletin-fda-warns-of-backdoor-in-patient-monitor/">Risky Bulletin: CISA &amp; FDA warn of backdoor in patient monitor</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Sponsored: Thinkst on Defending off the Land</title>
+            <pubDate>Mon, 03 Feb 2025 08:15:38 +1100</pubDate>
+            <link>https://risky.biz/RBNEWSSI70/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWSSI70/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI70.mp3" length="13527975" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>844</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this Risky Business News sponsor interview, Catalin Cimpanu talks with Thinkst CTO Marco Slaviero about a concept called Defending off the Land, a way to detect attacks and even deceive and frustrate attackers.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this Risky Business News sponsor interview, Catalin Cimpanu talks with Thinkst CTO Marco Slaviero about a concept called Defending off the Land, a way to detect attacks and even deceive and frustrate attackers.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://www.blackhat.com/eu-24/briefings/schedule/#defending-off-the-land-agentless-defenses-available-today-42284">Defending off the land: Agentless defenses available today</a></li>
+										
+                    	<li><a href="https://github.com/thinkst/defending-off-the-land">Assortment of scripts and tools for our Blackhat EU 2024 talk</a></li>
+										
+                    	<li><a href="https://citation.thinkst.com/">Thinkst Citation</a></li>
+										
+                    	<li><a href="https://canarytokens.org">Create a Canarytoken. Deploy it somewhere.</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Authorities seize the Cracked and Nulled cybercrime forums</title>
+            <pubDate>Fri, 31 Jan 2025 12:42:25 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS383/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS383/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS383.mp3" length="6858740" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>412</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://risky.biz/risky-bulletin-authorities-seize-cracked-and-nulled-cybercrime-forums/">Risky Bulletin: Authorities seize Cracked and Nulled cybercrime forums</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: EU sanctions three GRU hackers</title>
+            <pubDate>Wed, 29 Jan 2025 09:29:48 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS382/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS382/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS382.mp3" length="6327072" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>378</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://risky.biz/risky-bulletin-eu-sanctions-three-gru-hackers/">Risky Bulletin: EU sanctions three GRU hackers</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Public transport in Tbilisi is free after anti-government hack</title>
+            <pubDate>Mon, 27 Jan 2025 13:12:26 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS381/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS381/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS381.mp3" length="5887842" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>351</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://risky.biz/risky-bulletin-tbilisi-public-transport-goes-free-after-anti-government-hack/">Risky Bulletin: Tbilisi public transport goes free after anti-government hack</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Sponsored: runZero on Inside-Out Attack Surface Management</title>
+            <pubDate>Mon, 27 Jan 2025 10:28:26 +1100</pubDate>
+            <link>https://risky.biz/RBNEWSSI69/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWSSI69/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI69.mp3" length="9792111" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>611</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this Risky Business News sponsor interview, Catalin Cimpanu talks with runZero founder and CEO HD Moore about the company’s latest capability, a feature called Inside-Out Attack Surface Management that takes internal fingerprints and scans the internet to discover possible exposures.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this Risky Business News sponsor interview, Catalin Cimpanu talks with runZero founder and CEO HD Moore about the company’s latest capability, a feature called Inside-Out Attack Surface Management that takes internal fingerprints and scans the internet to discover possible exposures.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://www.runzero.com/blog/inside-out-attack-surface-management/">Inside-Out Attack Surface Management: Identify the risk before hackers bridge the gap</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Contactless payment card relay fraud booms in Russia</title>
+            <pubDate>Fri, 24 Jan 2025 10:27:52 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS380/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS380/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS380.mp3" length="6835408" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>410</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://risky.biz/risky-bulletin-payment-card-nfc-relay-attacks-spread-across-russia/">Risky Bulletin: Payment card NFC relay attacks spread across Russia</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Trump guts the Cyber Safety Review Board</title>
+            <pubDate>Wed, 22 Jan 2025 10:30:09 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS379/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS379/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS379.mp3" length="4328166" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>254</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-bulletin-threat-actor-impersonates-fsb-apt-for-months-to-target-russian-orgs/">Risky Bulletin: Threat actor impersonates FSB APT for months to target Russian orgs</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Sponsored: The tidal wave of cloud technical debt</title>
+            <pubDate>Mon, 20 Jan 2025 10:30:09 +1100</pubDate>
+            <link>https://risky.biz/RBNEWSSI68/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWSSI68/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI68.mp3" length="11525376" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>719</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this Risky Bulletin sponsor interview, Travis McPeak, the CEO and founder of Resourcely, explains that companies are now realising they have a ton of cloud-related technical debt because of the success of cloud posture management products. Travis talks about different approaches he has seen to tackle rampant cloud misconfigurations.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this Risky Bulletin sponsor interview, Travis McPeak, the CEO and founder of Resourcely, explains that companies are now realising they have a ton of cloud-related technical debt because of the success of cloud posture management products. Travis talks about different approaches he has seen to tackle rampant cloud misconfigurations.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Biden's last cyber executive order</title>
+            <pubDate>Mon, 20 Jan 2025 10:18:15 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS378/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS378/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS378.mp3" length="6127484" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>366</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://risky.biz/risky-bulletin-looking-at-bidens-last-cyber-executive-order/">Risky Bulletin: Looking at Biden&apos;s last cyber executive order</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>RBTALKS5: How Pfizer uses AI to detect insider risk</title>
+            <pubDate>Fri, 20 Dec 2024 14:18:15 +1100</pubDate>
+            <link>https://risky.biz/RBTALKS5/</link>
+            <guid isPermaLink="true">https://risky.biz/RBTALKS5/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBTALKS5.mp3" length="21618534" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1350</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                Brian A. Coleman, Senior Director for Insider Risk, Information Security, and Digital Forensics at Pfizer, talks to us about how his security team is experimenting with AI to improve their insider risk detection systems. The system Brian and his team put together can detect sensitive information or documents handled by unauthorized accounts, but can also spot documents moving around and ending up where they shouldn’t be - either by accident, malice, or as a result of a security breach.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>Brian A. Coleman, Senior Director for Insider Risk, Information Security, and Digital Forensics at Pfizer, talks to us about how his security team is experimenting with AI to improve their insider risk detection systems. The system Brian and his team put together can detect sensitive information or documents handled by unauthorized accounts, but can also spot documents moving around and ending up where they shouldn’t be - either by accident, malice, or as a result of a security breach.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Russia designates Recorded Future an "undesirable organization"</title>
+            <pubDate>Fri, 20 Dec 2024 09:52:33 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS377/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS377/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS377.mp3" length="7213608" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>434</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://risky.biz/risky-bulletin-the-growing-influencer-problem-to-national-security/">Risky Bulletin: The growing influencer problem to national security</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: Why two hats are better than two heads</title>
+            <pubDate>Thu, 19 Dec 2024 12:26:29 +1100</pubDate>
+            <link>https://risky.biz/SRB106/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB106/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB106.mp3" length="19204945" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1188</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this podcast Tom Uren and Patrick Gray talk about the likelihood that the incoming Trump administration will end the ‘dual-hat’ arrangement where a single officer leads both US Cyber Command and the National Security Agency. This would result in Cyber Command outranking NSA and could prioritise cyber disruption operations over intelligence collection. That would be a bad outcome.
+
+They also talk about how changes to SEC disclosure rules have led to an outpouring of corporate drivel and how WhatsApp became an everything app.
+
+This episode is also availble on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this podcast Tom Uren and Patrick Gray talk about the likelihood that the incoming Trump administration will end the ‘dual-hat’ arrangement where a single officer leads both US Cyber Command and the National Security Agency. This would result in Cyber Command outranking NSA and could prioritise cyber disruption operations over intelligence collection. That would be a bad outcome.</p>
+
+<p>They also talk about how changes to SEC disclosure rules have led to an outpouring of corporate drivel and how WhatsApp became an everything app.</p>
+
+<p>This episode is also availble on <a href="https://youtu.be/RNw5NCYSeG8">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Cl0p returns</title>
+            <pubDate>Wed, 18 Dec 2024 12:37:09 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS376/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS376/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS376.mp3" length="7598548" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>458</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://risky.biz/risky-bulletin-cisa-sent-2-100-pre-ransomware-alerts-this-year/">Risky Bulletin: CISA sent 2,100+ pre-ransomware alerts this year</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Between Two Nerds: The evolution of Russia's cyber operations in Ukraine</title>
+            <pubDate>Tue, 17 Dec 2024 08:42:02 +1100</pubDate>
+            <link>https://risky.biz/BTN105/</link>
+            <guid isPermaLink="true">https://risky.biz/BTN105/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN105.mp3" length="28314647" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1768</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this edition of Between Two Nerds Tom Uren and The Grugq talk about the evolution of Russian cyber operations during its invasion of Ukraine.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about the evolution of Russian cyber operations during its invasion of Ukraine.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/e49QGvfSWoU">Youtube</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Secret ransomware campaign targeted DrayTek routers for a year</title>
+            <pubDate>Mon, 16 Dec 2024 13:42:02 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS375/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS375/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS375.mp3" length="7658240" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>462</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://risky.biz/risky-bulletin-secret-ransomware-campaign-targeted-draytek-routers-for-a-year/">Risky Bulletin: Secret ransomware campaign targeted DrayTek routers for a year</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Bulletin: Germany's BSI sinkhole BADBOX malware</title>
+            <pubDate>Fri, 13 Dec 2024 14:19:47 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS373/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS373/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS373.mp3" length="8781122" type="audio/mpeg"/>
+            
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>532</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-bulletin-germanys-bsi-sinkhole-badbox-malware-traffic/">Risky Bulletin: Germany&apos;s BSI sinkhole BADBOX malware traffic</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: FCC demands telcos improve security</title>
+            <pubDate>Thu, 12 Dec 2024 11:58:49 +1100</pubDate>
+            <link>https://risky.biz/SRB105/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB105/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB105.mp3" length="16819881" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: APTs behaving badly</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1040</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this podcast Tom Uren and Patrick Gray talk about the US Federal Communications Commission effort to get US telcos to lift their security game and compares it to UK and Australian efforts. The US is very late to the game, and improving security is a huge job.
+
+They also talk about Chinese cyber actors continuing to pointlessly sow chaos and how an influence campaign in Romania is an absolute disaster for TikTok.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this podcast Tom Uren and Patrick Gray talk about the US Federal Communications Commission effort to get US telcos to lift their security game and compares it to UK and Australian efforts. The US is very late to the game, and improving security is a huge job.</p>
+
+<p>They also talk about Chinese cyber actors continuing to pointlessly sow chaos and how an influence campaign in Romania is an absolute disaster for TikTok.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/pKqXR4gXpv8">Youtube</a>.</p>
+
+                
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Biz News: Improperly patched Cleo bug exploited in the wild</title>
+            <pubDate>Wed, 11 Dec 2024 12:08:25 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS372/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS372/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS372.mp3" length="9555822" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: US sanctions Chinese APT exploit supplier; Romania's largest electricity provider hit by ransomware; OpenWrt fixes firmware contamination attack.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>582</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+You can find the newsletter version of this podcast here.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+<p>You can find the newsletter version of this podcast <a href="https://news.risky.biz">here</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-biz-news-improperly-patched-cleo-bug-exploited-in-the-wild/v">Risky Biz News: Improperly patched Cleo bug exploited in the wild</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Between Two Nerds: Why the US is so uptight about cyber operations</title>
+            <pubDate>Tue, 10 Dec 2024 08:38:08 +1100</pubDate>
+            <link>https://risky.biz/BTN104/</link>
+            <guid isPermaLink="true">https://risky.biz/BTN104/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN104.mp3" length="28885649" type="audio/mpeg"/>
+            <itunes:subtitle>And why China is so relaxed</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1805</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this edition of Between Two Nerds Tom Uren and The Grugq talk about how states have very different approaches to controlling cyber operations.
+
+At the very beginning they refer to this Microsoft Threat Intelligence post.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about how states have very different approaches to controlling cyber operations.</p>
+
+<p>At the very beginning they refer to <a href="https://www.microsoft.com/en-us/security/blog/2024/12/04/frequent-freeloader-part-i-secret-blizzard-compromising-storm-0156-infrastructure-for-espionage/">this</a> Microsoft Threat Intelligence post.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://www.microsoft.com/en-us/security/blog/2024/12/04/frequent-freeloader-part-i-secret-blizzard-compromising-storm-0156-infrastructure-for-espionage/">Frequent freeloader part I: Secret Blizzard compromising Storm-0156 infrastructure for espionage</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Biz News: Members of US Congress targeted by phishing op</title>
+            <pubDate>Mon, 09 Dec 2024 10:42:00 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS371/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS371/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS371.mp3" length="6020506" type="audio/mpeg"/>
+            <itunes:subtitle> PLUS: FCC proposes new telco cyber rules following Salt Typhoon hacks; major phishing gang detained in Belgium and the Netherlands; new DaMAgeCard attack exploits SD Express standard.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>361</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+You can find the newsletter version of this podcast here.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+<p>You can find the newsletter version of this podcast <a href="https://news.risky.biz">here</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-biz-news-greece-is-close-to-burying-its-predatorgate-scandal/">Risky Biz News: Greece is close to burying its Predatorgate scandal</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Sponsored: Proofpoint on the rise of ClickFix attacks</title>
+            <pubDate>Mon, 09 Dec 2024 09:24:20 +1100</pubDate>
+            <link>https://risky.biz/RBNEWSSI67/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWSSI67/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI67.mp3" length="12753291" type="audio/mpeg"/>
+            <itunes:subtitle>Selena Larson talks about the recent AitM phishing and ClickFix trends.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>796</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this Risky Business News sponsor interview, Catalin Cimpanu talks with Proofpoint senior threat intelligence analyst Selena Larson about the rise of Attacker-in-the-Middle phishing and ClickFix social engineering campaigns.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this Risky Business News sponsor interview, Catalin Cimpanu talks with Proofpoint senior threat intelligence analyst Selena Larson about the rise of Attacker-in-the-Middle phishing and ClickFix social engineering campaigns.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://www.proofpoint.com/us/blog/threat-insight/security-brief-clickfix-social-engineering-technique-floods-threat-landscape">Security Brief: ClickFix Social Engineering Technique Floods Threat Landscape</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Biz News: Salt Typhoon's telco hacking spree keeps getting bigger</title>
+            <pubDate>Fri, 06 Dec 2024 10:44:59 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS370/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS370/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS370.mp3" length="7618233" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: Declassified documents reveal Russia's election info-ops in Romania; another Scattered Spider member detained; Turla hacks Pakistani APT's servers.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>461</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+You can find the newsletter version of this podcast here.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+<p>You can find the newsletter version of this podcast <a href="https://news.risky.biz">here</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-biz-news-declassified-documents-reveal-russias-election-info-ops-in-romania/">Risky Biz News: Declassified documents reveal Russia&apos;s election info-ops in Romania</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: Why hack and leak is still a big deal</title>
+            <pubDate>Thu, 05 Dec 2024 12:28:59 +1100</pubDate>
+            <link>https://risky.biz/SRB104/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB104/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB104.mp3" length="21002475" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: Crimephone evolution</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1301</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this podcast Tom Uren and Adam Boileau talk about the continued importance of hack and leak operations. They didn’t really affect the recent US presidential election, but they are still a powerful tool for vested interests to influence public policy.
+
+They also discuss the police bust of MATRIX, yet another encrypted messenger that is marketed to criminals and designed to resist police surveillance. The crimephone landscape is splintering due to the constant drumbeat of police success.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this podcast Tom Uren and Adam Boileau talk about the continued importance of hack and leak operations. They didn’t really affect the recent US presidential election, but they are still a powerful tool for vested interests to influence public policy.</p>
+
+<p>They also discuss the police bust of MATRIX, yet another encrypted messenger that is marketed to criminals and designed to resist police surveillance. The crimephone landscape is splintering due to the constant drumbeat of police success.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/8X4AgxhKg-8">Youtube</a>.</p>
+
+                
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Biz News: Poland arrests former spy chief in Pegasus scandal</title>
+            <pubDate>Wed, 04 Dec 2024 11:16:45 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS369/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS369/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS369.mp3" length="8551198" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: Hydra dark web market admin gets life in prison; Europol takes down MATRIX crypto-comms platform; Japanese crypto exchange shuts down after major hack.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>519</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+You can find the newsletter version of this podcast here.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+<p>You can find the newsletter version of this podcast <a href="https://news.risky.biz">here</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-biz-news-poland-arrests-former-spy-chief-in-pegasus-scandal/">Risky Biz News: Poland arrests former spy chief in Pegasus scandal</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Between Two Nerds: The kid to criminal pipeline</title>
+            <pubDate>Tue, 03 Dec 2024 08:51:41 +1100</pubDate>
+            <link>https://risky.biz/BTN103/</link>
+            <guid isPermaLink="true">https://risky.biz/BTN103/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN103.mp3" length="23314942" type="audio/mpeg"/>
+            <itunes:subtitle>And how the hackers are alright</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1457</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this edition of Between Two Nerds Tom Uren and The Grugq talk about how the opportunities for hackers have changed and how that has altered the pipelines that turn kids into criminals.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about how the opportunities for hackers have changed and how that has altered the pipelines that turn kids into criminals.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://youtu.be/vyDt5NKAv_I">This Kid Wouldn&apos;t Stop Hacking Rappers</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Biz News: Russia arrests WazaWaka</title>
+            <pubDate>Mon, 02 Dec 2024 13:02:14 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS368/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS368/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS368.mp3" length="5232458" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: Police arrest tech company CEO for building DDoS function; hackers steal $17 million from Uganda's central bank; Windows Server 2012 zero-day awaits patch.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>312</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+You can find the newsletter version of this podcast here.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+<p>You can find the newsletter version of this podcast <a href="https://news.risky.biz">here</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-biz-news-russia-arrests-wazawaka/">Risky Biz News: Russia arrests WazaWaka</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Sponsored: Push Security on its new stolen credentials detection feature</title>
+            <pubDate>Mon, 02 Dec 2024 06:45:09 +1100</pubDate>
+            <link>https://risky.biz/RBNEWSSI66/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWSSI66/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI66.mp3" length="20309560" type="audio/mpeg"/>
+            <itunes:subtitle>Jacques Louw also talks AitM phishing and MFA adoption.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1269</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this Risky Business News sponsor interview, Catalin Cimpanu talks with Jacques Louw, co-founder and chief product officer at Push Security, on the company’s new stolen credentials detection feature, how AitM phishing can be spotted in the browser, and how Push deals with customers needing help with MFA.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this Risky Business News sponsor interview, Catalin Cimpanu talks with Jacques Louw, co-founder and chief product officer at Push Security, on the company’s new stolen credentials detection feature, how AitM phishing can be spotted in the browser, and how Push deals with customers needing help with MFA.</p>
+
+                
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Biz News: Microsoft’s thanksgiving treat: an FTC investigation</title>
+            <pubDate>Fri, 29 Nov 2024 14:08:12 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS367/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS367/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS367.mp3" length="7418252" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: Tor needs 200 new bridges to avoid Russian censorship; US court overturns Tornado Cash sanctions; ESET finds first Ubuntu UEFI bootkit.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>449</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+You can find the newsletter version of this podcast here.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+<p>You can find the newsletter version of this podcast <a href="https://news.risky.biz">here</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-biz-news-tor-project-has-urgent-need-for-200-new-bridges-to-bypass-russian-censorship/">Risky Biz News: Tor Project has &quot;urgent need&quot; for 200 new bridges to avoid Russian censorship</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: Australian government to shut down AN0M evidence appeals</title>
+            <pubDate>Thu, 28 Nov 2024 13:31:03 +1100</pubDate>
+            <link>https://risky.biz/SRB103/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB103/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB103.mp3" length="16692035" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: Trump won't save Microsoft from nation-state cyberattacks</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1032</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this podcast Tom Uren and Patrick Gray talk about the Australian Government’s extraordinary legislation that will retrospectively ensure that warrants used for the An0m crimephone sting operation are valid.
+
+They also discuss a sterling CISA red team report and the naiveté of Microsoft’s Vice Chair and President Brad Smith.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this podcast Tom Uren and Patrick Gray talk about the Australian Government’s extraordinary legislation that will retrospectively ensure that warrants used for the An0m crimephone sting operation are valid.</p>
+
+<p>They also discuss a sterling CISA red team report and the naiveté of Microsoft’s Vice Chair and President Brad Smith.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/_K8OfqvQIms">Youtube</a>.</p>
+
+                
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Biz News: Banshee Stealer shuts down after source code leak</title>
+            <pubDate>Wed, 27 Nov 2024 13:50:29 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS366/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS366/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS366.mp3" length="7200590" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: Geico fined over 2020 security breach, a new pro-Kremlin group emerges out of India; Russian group behind Firefox and Windows zero-days.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>435</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+You can find the newsletter version of this podcast here.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+<p>You can find the newsletter version of this podcast <a href="https://news.risky.biz">here</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-biz-news-banshee-stealer-shuts-down-after-source-code-leak/">Risky Biz News: Banshee Stealer shuts down after source code leak</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Between Two Nerds: Why attribution matters</title>
+            <pubDate>Tue, 26 Nov 2024 08:36:33 +1100</pubDate>
+            <link>https://risky.biz/BTN102/</link>
+            <guid isPermaLink="true">https://risky.biz/BTN102/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN102.mp3" length="22018937" type="audio/mpeg"/>
+            <itunes:subtitle>And why it drives competition between sophisticated actors</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1376</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this edition of Between Two Nerds Tom Uren and The Grugq talk about different views on attribution and why it still matters for sophisticated state-backed groups.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about different views on attribution and why it still matters for sophisticated state-backed groups.</p>
+
+                
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Biz News: Four PR firms are behind a Chinese propaganda network</title>
+            <pubDate>Mon, 25 Nov 2024 10:26:29 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS365/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS365/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS365.mp3" length="7903952" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: US telcos learned of Salt Typhoon breaches from Microsoft; Russian hackers pull off a crazy WiFi attack; hacktivists leak data from Andrew Tate's website.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>479</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+You can find the newsletter version of this podcast here.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+<p>You can find the newsletter version of this podcast <a href="https://news.risky.biz">here</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-biz-news-four-pr-firms-are-behind-a-chinese-propaganda-network/">Risky Biz News: Four PR firms are behind a Chinese propaganda network</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Sponsored: Breaking the deadlock between IT and security teams</title>
+            <pubDate>Mon, 25 Nov 2024 09:41:57 +1100</pubDate>
+            <link>https://risky.biz/RBNEWSSI65/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWSSI65/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI65.mp3" length="13271808" type="audio/mpeg"/>
+            <itunes:subtitle>Stairwell's Mike Wiacek on how to win friends and influence (IT) people</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>830</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this Risky Business News sponsored interview, Tom Uren talks to Mike Wiacek, CEO and founder of Stairwell, about the occasionally dysfunctional relationship between IT and security teams. Mike talks about how security vendors need to reach out to turn IT teams into allies.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this Risky Business News sponsored interview, Tom Uren talks to Mike Wiacek, CEO and founder of Stairwell, about the occasionally dysfunctional relationship between IT and security teams. Mike talks about how security vendors need to reach out to turn IT teams into allies.</p>
+
+                
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Biz News: US charges five Scattered Spider members</title>
+            <pubDate>Fri, 22 Nov 2024 12:47:34 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS364/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS364/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS364.mp3" length="8307026" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: Apple fixes macOS zero-days; T-Mobile finally stops a breach; US takes down PopeyeTools carding portal.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>505</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+You can find the newsletter version of this podcast here.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+<p>You can find the newsletter version of this podcast <a href="https://news.risky.biz">here</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-biz-news-us-charges-five-scattered-spider-members/">Risky Biz News: US charges five Scattered Spider members</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: The PLA's cyber operations go dark</title>
+            <pubDate>Thu, 21 Nov 2024 11:29:01 +1100</pubDate>
+            <link>https://risky.biz/SRB102/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB102/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB102.mp3" length="14484379" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: Market forces in the bug bounty market</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>894</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this podcast Tom Uren and Patrick Gray talk about what the People’s Liberation Army cyber operators have been up to. They used to be China’s most visible cyber operators but have since disappeared.
+
+They also discuss the shift towards widespread exploitation of 0days, particularly in enterprise perimeter devices.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this podcast Tom Uren and Patrick Gray talk about what the People’s Liberation Army cyber operators have been up to. They used to be China’s most visible cyber operators but have since disappeared.</p>
+
+<p>They also discuss the shift towards widespread exploitation of 0days, particularly in enterprise perimeter devices.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/SXQuYawXqC4">Youtube</a>.</p>
+
+                
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Biz News: Remote fix feature for unbootable PCs coming to Windows</title>
+            <pubDate>Wed, 20 Nov 2024 14:04:24 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS363/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS363/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS363.mp3" length="7575188" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: Phobos ransomware admin arrested; US Library of Congress discloses breach; Microsoft to host in-person hacking contest.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>459</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+You can find the newsletter version of this podcast here.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+<p>You can find the newsletter version of this podcast <a href="https://news.risky.biz">here</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-biz-news-microsoft-announces-quick-machine-recovery-a-feature-to-fix-future-crowdstrike-disasters/">Risky Biz News: Microsoft announces Quick Machine Recovery, a feature to fix future CrowdStrike disasters</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Between Two Nerds: Cyber weapons</title>
+            <pubDate>Tue, 19 Nov 2024 09:13:06 +1100</pubDate>
+            <link>https://risky.biz/BTN101/</link>
+            <guid isPermaLink="true">https://risky.biz/BTN101/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN101.mp3" length="30872431" type="audio/mpeg"/>
+            <itunes:subtitle>What they are and why talking about them makes no sense</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1929</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this edition of Between Two Nerds Tom Uren and The Grugq talk about what cyber weapons really are and why use of the term is counterproductive.
+
+They reference Defining Offensive Cyber Capabilities, a paper authored by Tom.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about what cyber weapons really are and why use of the term is counterproductive.</p>
+
+<p>They reference Defining Offensive Cyber Capabilities, a paper authored by Tom.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://www.aspi.org.au/report/defining-offensive-cyber-capabilities">Defining offensive cyber capabilities</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Biz News: Unpatched zero-day in Palo Alto Networks is in the wild</title>
+            <pubDate>Mon, 18 Nov 2024 14:04:55 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS362/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS362/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS362.mp3" length="11156610" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: T-Mobile joins the Salt Typhoon victim list; NSO developed new WhatsApp exploits after lawsuit; O2 AI keeps phone scammers busy.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>683</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+You can find the newsletter version of this podcast here.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+<p>You can find the newsletter version of this podcast <a href="https://news.risky.biz">here</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-biz-news-unpatched-zero-day-in-palo-alto-networks-is-in-the-wild/">Risky Biz News: Unpatched zero-day in Palo Alto Networks is in the wild</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Biz News: MSS now dominates China's cyber activity</title>
+            <pubDate>Fri, 15 Nov 2024 13:25:33 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS361/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS361/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS361.mp3" length="9282650" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: Prolific teenage swatter pleads guilty; Microsoft adds spoofing warning to Exchange; major breach at another data aggregator.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>566</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+You can find the newsletter version of this podcast here.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+<p>You can find the newsletter version of this podcast <a href="https://news.risky.biz">here</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-biz-news-mss-now-dominates-chinas-cyber-activity/">Risky Biz News: MSS now dominates China&apos;s cyber activity</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: How Trump will drive covert operations</title>
+            <pubDate>Thu, 14 Nov 2024 12:00:10 +1100</pubDate>
+            <link>https://risky.biz/SRB101/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB101/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB101.mp3" length="16500511" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: Canada's confusing TikTok ban</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1020</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this podcast Tom Uren and Patrick Gray talk about what to expect from President Trump’s second term. Trump is an activist president who believes in using state power, so intelligence agencies will be pushed to conduct more audacious or even outrageous covert operations.
+
+They also discuss concerns about a new UN cybercrime treaty that is set for a vote at the General Assembly and the Canadian government’s curious decision to force the closure of TikTok’s local offices.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this podcast Tom Uren and Patrick Gray talk about what to expect from President Trump’s second term. Trump is an activist president who believes in using state power, so intelligence agencies will be pushed to conduct more audacious or even outrageous covert operations.</p>
+
+<p>They also discuss concerns about a new UN cybercrime treaty that is set for a vote at the General Assembly and the Canadian government’s curious decision to force the closure of TikTok’s local offices.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/XDI5FJU_cC8">Youtube</a>.</p>
+
+                
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Biz News: Most of 2023's top exploited vulnerabilities were initially zero-days</title>
+            <pubDate>Wed, 13 Nov 2024 10:29:47 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS360/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS360/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS360.mp3" length="6696158" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: State Dept disinfo center faces shutdown; US to back controversial UN cybercrime treaty; Google Cloud to issue cloud CVEs.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>404</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+You can find the newsletter version of this podcast here.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+<p>You can find the newsletter version of this podcast <a href="https://news.risky.biz">here</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-biz-news-most-of-2023s-top-exploited-vulnerabilities-were-initially-zero-days/">Risky Biz News: Most of 2023&apos;s top exploited vulnerabilities were initially zero-days</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Between Two Nerds: How Telegram creates cybercriminals</title>
+            <pubDate>Tue, 12 Nov 2024 07:15:24 +1100</pubDate>
+            <link>https://risky.biz/BTN100/</link>
+            <guid isPermaLink="true">https://risky.biz/BTN100/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN100.mp3" length="27063557" type="audio/mpeg"/>
+            <itunes:subtitle>The leaderless resistance</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>1691</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this edition of Between Two Nerds Tom Uren and The Grugq talk about how ungoverned spaces on Telegram result in increasingly toxic and antisocial communities.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about how ungoverned spaces on Telegram result in increasingly toxic and antisocial communities.</p>
+
+                
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Biz News: iPhones are auto-rebooting to defeat law enforcement</title>
+            <pubDate>Mon, 11 Nov 2024 13:13:47 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS359/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS359/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS359.mp3" length="9702626" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: Palo Alto Networks warns of possible zero day; 2,700+ US schools and libraries apply for cybersecurity funds.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>592</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+You can find the newsletter version of this podcast here.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+<p>You can find the newsletter version of this podcast <a href="https://news.risky.biz">here</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-biz-news-eu-warns-temu-to-respect-consumer-protection-laws/">Risky Biz News: EU warns Temu to respect consumer protection laws</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Risky Biz News: Russia blocks Cloudflare ECH connections</title>
+            <pubDate>Fri, 08 Nov 2024 09:48:47 +1100</pubDate>
+            <link>https://risky.biz/RBNEWS358/</link>
+            <guid isPermaLink="true">https://risky.biz/RBNEWS358/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS358.mp3" length="6507428" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: Chinese APT hacked Singtel; Canada orders TikTok to shut down offices; new Mozilla layoffs.</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>393</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.
+
+You can find the newsletter version of this podcast here.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.</p>
+
+<p>You can find the newsletter version of this podcast <a href="https://news.risky.biz">here</a>.</p>
+
+                
+                
+                <h3 class="panel-title">Show notes</h3>
+                	<ul>
+                  	
+                    	<li><a href="https://news.risky.biz/risky-biz-news-russia-blocks-cloudflare-ech-connections/">Risky Biz News: Russia blocks Cloudflare ECH connections</a></li>
+										
+                 	</ul>
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+        <item>
+            <title>Srsly Risky Biz: How Telegram makes criminal enterprise easy</title>
+            <pubDate>Thu, 07 Nov 2024 13:36:50 +1100</pubDate>
+            <link>https://risky.biz/SRB100/</link>
+            <guid isPermaLink="true">https://risky.biz/SRB100/</guid>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB100.mp3" length="15810701" type="audio/mpeg"/>
+            <itunes:subtitle>PLUS: Sophos' five-year cyber knife fight</itunes:subtitle>
+            <itunes:explicit>false</itunes:explicit>
+						
+							<itunes:duration>977</itunes:duration>
+						
+            <itunes:summary>
+            	<![CDATA[
+                In this podcast Tom Uren and Patrick Gray talk about the Snowflake hack after the person allegedly responsible was arrested in Canada. Telegram is involved at all sorts of levels and Tom wonders if this crime would have occurred if Telegram didn’t exist.
+
+They also discuss the impact of the Chinese hack of US telcos and Sophos’ five-year cyber knife fight with Chinese APT crews.
+
+This episode is also available on Youtube.
+
+                ]]>
+            </itunes:summary>
+            <description>
+            	<![CDATA[
+                <p>In this podcast Tom Uren and Patrick Gray talk about the Snowflake hack after the person allegedly responsible was arrested in Canada. Telegram is involved at all sorts of levels and Tom wonders if this crime would have occurred if Telegram didn’t exist.</p>
+
+<p>They also discuss the impact of the Chinese hack of US telcos and Sophos’ five-year cyber knife fight with Chinese APT crews.</p>
+
+<p>This episode is also available on <a href="https://youtu.be/CsS_AgifrmU">Youtube</a>.</p>
+
+                
+                
+                ]]>
+            </description>
+        </item>
+            
+        
+    </channel>
+</rss>
