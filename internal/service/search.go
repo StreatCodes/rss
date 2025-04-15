@@ -2,7 +2,11 @@ package service
 
 import (
 	"html/template"
+	"log"
 	"net/http"
+	"net/url"
+
+	"github.com/streatCodes/rss/rss"
 )
 
 type TemplateData struct {
@@ -21,6 +25,26 @@ func (service *Service) homeHandler(w http.ResponseWriter, r *http.Request) {
 func (service *Service) searchHandler(w http.ResponseWriter, r *http.Request) {
 	isHtmx := r.Header.Get("HX-Request")
 	searchResult := r.URL.Query().Get("search")
+
+	log.Printf("Search: %s\n", searchResult)
+
+	//If the search query is a URL then ingest the feed
+	if parsedURL, err := url.ParseRequestURI(searchResult); err == nil {
+		log.Println("Found URL")
+		res, err := http.Get(searchResult)
+		if err != nil {
+			panic("TODO")
+		}
+
+		f, err := rss.Decode(res.Body)
+		if err != nil {
+			panic("TODO")
+		}
+
+		key := []byte(parsedURL.String())
+		service.db.SaveFeed(key, &f.Channel)
+	}
+
 	if isHtmx == "true" {
 		render(w, "results", []string{searchResult})
 	} else {

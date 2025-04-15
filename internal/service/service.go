@@ -3,13 +3,22 @@ package service
 import (
 	"log"
 	"net/http"
+	"time"
+
+	"github.com/streatCodes/rss/internal/db"
+	bolt "go.etcd.io/bbolt"
 )
 
 type Service struct {
+	db *db.DB
 }
 
-func NewService() Service {
-	service := Service{}
+func New(dbPath string) (*Service, error) {
+	db, err := db.New(dbPath, 0600, &bolt.Options{Timeout: 1 * time.Second})
+	if err != nil {
+		return nil, err
+	}
+	service := &Service{db: db}
 
 	mux := http.NewServeMux()
 
@@ -21,5 +30,5 @@ func NewService() Service {
 	log.Printf("Server running at %s", addr)
 	log.Fatal(http.ListenAndServe(addr, mux))
 
-	return service
+	return service, nil
 }
