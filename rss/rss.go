@@ -37,25 +37,31 @@ type Channel struct {
 	PubDate       RFC1123Time `xml:"pubDate"`
 	TTL           int         `xml:"ttl"`
 	Items         []Item      `xml:"item"`
+	Language      string      `xml:"language"`
 
-	ITunesImage      string           `xml:"itunes:image"`
-	ITunesAuthor     string           `xml:"itunes:author"`
-	ITunesCategories []ItunesCategory `xml:"itunes:category"`
-	ITunesOwner      []ItunesOwner    `xml:"itunes:owner"`
-	ITunesExplicit   bool             `xml:"itunes:explicit"`
+	//Additional  metadata
+	Image      Image      `xml:"image"`
+	Author     string     `xml:"author"`
+	Categories []Category `xml:"category"`
+	Owner      Owner      `xml:"owner"`
+	Explicit   bool       `xml:"explicit"`
 }
 
 type AtomLink struct {
 	Href string `xml:"href,attr"`
 }
 
-type ItunesCategory struct {
+type Image struct {
+	Href string `xml:"href,attr"`
+}
+
+type Category struct {
 	Text string `xml:"text,attr"`
 }
 
-type ItunesOwner struct {
-	Name  string `xml:"itunes:name"`
-	Email string `xml:"itunes:email"`
+type Owner struct {
+	Name  string `xml:"name"`
+	Email string `xml:"email"`
 }
 
 type Item struct {

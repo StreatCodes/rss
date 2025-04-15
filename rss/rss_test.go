@@ -26,12 +26,20 @@ func TestDecode(t *testing.T) {
 	if feed.Channel.Link[0] != "https://risky.biz/" {
 		t.Errorf("Channel.Link: expected %q, got %q", "https://risky.biz/", feed.Channel.Link)
 	}
-	// Fri, 11 Apr 2025 14:42:00 +1000
 	if feed.Channel.PubDate.String() != "2025-04-11 14:42:00 +1000 AEST" {
 		t.Errorf("Channel.PubDate: expected %q, got %q", "2025-04-11 14:42:00 +1000 AEST", feed.Channel.PubDate.String())
 	}
-	if feed.Channel.ITunesExplicit != false {
-		t.Errorf("Channel.ITunesExplicit: expected %t, got %t", false, feed.Channel.ITunesExplicit)
+	if feed.Channel.Image.Href != "https://risky.biz/static/img/rb-news.png" {
+		t.Errorf("feed.Channel.Image: expected %q, got %q", "https://risky.biz/static/img/rb-news.png", feed.Channel.Image.Href)
+	}
+	if feed.Channel.Explicit != false {
+		t.Errorf("Channel.Explicit: expected %t, got %t", false, feed.Channel.Explicit)
+	}
+	if feed.Channel.Categories[0].Text != "News" {
+		t.Errorf("Channel.Explicit: expected %q, got %q", "News", feed.Channel.Categories[0].Text)
+	}
+	if feed.Channel.Categories[1].Text != "Technology" {
+		t.Errorf("Channel.Explicit: expected %q, got %q", "Technology", feed.Channel.Categories[0].Text)
 	}
 
 	item := feed.Channel.Items[0]

@@ -1,7 +1,24 @@
 {{ define "results" }}
     <div class="results">
     {{ range . }}
-        <div class="result">{{ . }}</div>
+        <div class="result">
+            <img src="{{ .Image.Href }}" />
+            <div>
+                <h3>{{ .Title }}</h3>
+                <p>{{ .Description }}</p>
+                {{ range .Link }}
+                    <a href="{{.}}">{{ . }}</a>
+                {{ end }}
+                <!-- <div>Copyright - {{ .Copyright }}</div> -->
+                <div>PubDate - {{ .PubDate }}</div>
+                <div>Items - {{ len .Items }}</div>
+                {{ range .Categories }}
+                    <div>Category - {{ .Text }}</div>
+                {{ end }}
+                <div>Owner - {{ .Owner.Email }}</div>
+                <!-- <div>Explicit - {{ .Explicit }}</div> -->
+            </div>
+        </div>
     {{ end }}
     </div>
 {{ end }}

@@ -199,6 +199,7 @@ main:has(.result)>hgroup.search-animation {
     box-shadow: var(--shadow);
     display: flex;
     align-items: center;
+    margin-bottom: 2rem;
 
     input {
         all: unset;
@@ -217,5 +218,21 @@ main:has(.result)>hgroup.search-animation {
 
     button:focus, button:hover {
         color: var(--blue);
+    }
+}
+
+.results .result {
+    background-color: var(--black);
+    display: flex;
+    border-radius: 2rem;
+    padding: 1rem;
+    box-shadow: var(--shadow);
+    margin-bottom: 1rem;
+
+    img {
+        width: 200px;
+        height: 200px;
+        border-radius: 2rem;
+        margin-right: 1rem;
     }
 }
