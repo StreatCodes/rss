@@ -6,18 +6,16 @@ import (
 	"time"
 )
 
-type RFC822Time struct {
+type RFC1123Time struct {
 	time.Time
 }
 
-const rfc822Layout = "Mon, 2 Jan 2006 15:04:05 -0700"
-
-func (ct *RFC822Time) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
+func (ct *RFC1123Time) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 	var content string
 	if err := d.DecodeElement(&content, &start); err != nil {
 		return err
 	}
-	t, err := time.Parse(rfc822Layout, content)
+	t, err := time.Parse(time.RFC1123Z, content)
 	if err != nil {
 		return err
 	}
@@ -31,14 +29,14 @@ type RSS struct {
 }
 
 type Channel struct {
-	Title         string     `xml:"title"`
-	Description   string     `xml:"description"`
-	Link          []string   `xml:"link"`
-	Copyright     string     `xml:"copyright"`
-	LastBuildDate RFC822Time `xml:"lastBuildDate"`
-	PubDate       RFC822Time `xml:"pubDate"`
-	TTL           int        `xml:"ttl"`
-	Items         []Item     `xml:"item"`
+	Title         string      `xml:"title"`
+	Description   string      `xml:"description"`
+	Link          []string    `xml:"link"`
+	Copyright     string      `xml:"copyright"`
+	LastBuildDate RFC1123Time `xml:"lastBuildDate"`
+	PubDate       RFC1123Time `xml:"pubDate"`
+	TTL           int         `xml:"ttl"`
+	Items         []Item      `xml:"item"`
 
 	ITunesImage      string           `xml:"itunes:image"`
 	ITunesAuthor     string           `xml:"itunes:author"`
@@ -61,11 +59,11 @@ type ItunesOwner struct {
 }
 
 type Item struct {
-	Title       string     `xml:"title"`
-	Description string     `xml:"description"`
-	Link        string     `xml:"link"`
-	GUUID       string     `xml:"guid"`
-	PubDate     RFC822Time `xml:"pubDate"`
+	Title       string      `xml:"title"`
+	Description string      `xml:"description"`
+	Link        string      `xml:"link"`
+	GUUID       string      `xml:"guid"`
+	PubDate     RFC1123Time `xml:"pubDate"`
 }
 
 func Marshal(rss *RSS) ([]byte, error) {
