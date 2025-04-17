@@ -11,8 +11,13 @@ type TemplateData struct {
 	Results []rss.Channel
 }
 
+var templateFuncs = template.FuncMap{
+	"timeAgo": timeAgo,
+}
+
 func render(w http.ResponseWriter, name string, data any) {
-	tmpl := template.Must(template.ParseGlob("internal/templates/*.tmpl"))
+	tmpl := template.New("").Funcs(templateFuncs)
+	tmpl = template.Must(tmpl.ParseGlob("internal/templates/*.tmpl"))
 	tmpl.ExecuteTemplate(w, name, data)
 }
 

@@ -4,6 +4,7 @@
     --pink: #ee8695;
     --blue: #57c2ff;
     --dark-blue: #468fb9;
+    --light-gray: #919191;
     --gray: #35343d;
     --dark-gray: #292831;
     --black: #1c1b1e;
@@ -86,7 +87,7 @@ main {
     &.search-area {
         margin: 0 auto;
         width: 100%;
-        max-width: 700px;
+        max-width: 900px;
     }
 }
 
@@ -230,9 +231,48 @@ main:has(.result)>hgroup.search-animation {
     margin-bottom: 1rem;
 
     img {
-        width: 200px;
-        height: 200px;
         border-radius: 2rem;
         margin-right: 1rem;
+    }
+
+    hgroup {
+        margin-bottom: 0.5rem;
+
+        h2 {
+            margin-bottom: 0;
+        }
+
+        time {
+            color: var(--light-gray);
+            font-size: .8em;
+        }
+    }
+
+    a {
+        font-size: .9em;
+    }
+
+    .tag-line {
+        display: flex;
+        align-items: center;
+
+        a.button {
+            margin-right: .5rem;
+            display: block;
+            color: var(--black);
+            padding: 4px;
+            border-radius: 100px;
+            line-height: 0;
+            background-color: white;
+        }
+
+        a.category {
+            margin-right: .5rem;
+            background-color: var(--dark-blue);
+            color: white;
+            font-size: .6em;
+            padding: .2rem .4rem;
+            border-radius: 1rem;
+        }
     }
 }
