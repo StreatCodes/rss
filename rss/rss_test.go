@@ -14,7 +14,7 @@ func TestDecode(t *testing.T) {
 
 	feed, err := Decode(f)
 	if err != nil {
-		t.Errorf("decode %v", err)
+		t.Errorf("decode: %v", err)
 	}
 
 	if feed.Version != "2.0" {
