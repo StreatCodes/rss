@@ -21,7 +21,7 @@ func (service *Service) homeHandler(w http.ResponseWriter, r *http.Request) {
 }
 
 func (service *Service) searchHandler(w http.ResponseWriter, r *http.Request) {
-	isHtmx := r.Header.Get("HX-Request")
+	isHtmx := r.Header.Get("HX-Request") == "true"
 	searchQuery := r.URL.Query().Get("search")
 
 	channels, err := service.findChannel(searchQuery)
@@ -29,9 +29,9 @@ func (service *Service) searchHandler(w http.ResponseWriter, r *http.Request) {
 		panic("TODO")
 	}
 
-	if isHtmx == "true" {
+	if isHtmx {
 		render(w, "results", channels)
-	} else {
-		render(w, "home", TemplateData{Results: channels})
+		return
 	}
+	render(w, "home", TemplateData{Results: channels})
 }
