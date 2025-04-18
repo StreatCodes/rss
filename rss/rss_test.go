@@ -50,3 +50,14 @@ func TestDecode(t *testing.T) {
 		t.Errorf("Entry.Link: expected %q, got %q", "https://risky.biz/RBNEWS410/", item.Link)
 	}
 }
+
+func TestEmpty(t *testing.T) {
+	f, err := os.Open("testdata/empty.xml")
+	if err != nil {
+		t.Fatal(err)
+	}
+	defer f.Close()
+	if _, err := Decode(f); err != nil {
+		t.Fatal(err)
+	}
+}

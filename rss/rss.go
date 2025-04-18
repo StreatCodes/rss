@@ -42,17 +42,22 @@ func (ch *Channel) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 	if err := d.DecodeElement(aux, &start); err != nil {
 		return err
 	}
-	t, err := time.Parse(time.RFC1123Z, aux.PubDate)
-	if err != nil {
-		return err
-	}
-	ch.PubDate = t
 
-	t, err = time.Parse(time.RFC1123Z, aux.LastBuildDate)
-	if err != nil {
-		return err
+	if aux.PubDate != "" {
+		t, err := time.Parse(time.RFC1123Z, aux.PubDate)
+		if err != nil {
+			return err
+		}
+		ch.PubDate = t
 	}
-	ch.LastBuildDate = t
+	if aux.LastBuildDate != "" {
+		t, err := time.Parse(time.RFC1123Z, aux.LastBuildDate)
+		if err != nil {
+			return err
+		}
+		ch.LastBuildDate = t
+	}
+
 	return nil
 }
 
@@ -92,11 +97,13 @@ func (it *Item) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 	if err := d.DecodeElement(aux, &start); err != nil {
 		return err
 	}
-	t, err := time.Parse(time.RFC1123Z, aux.PubDate)
-	if err != nil {
-		return err
+	if aux.PubDate != "" {
+		t, err := time.Parse(time.RFC1123Z, aux.PubDate)
+		if err != nil {
+			return err
+		}
+		it.PubDate = t
 	}
-	it.PubDate = t
 	return nil
 }
 
