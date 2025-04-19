@@ -61,3 +61,20 @@ func TestEmpty(t *testing.T) {
 		t.Fatal(err)
 	}
 }
+
+func TestParseTime(t *testing.T) {
+	var tests = []struct {
+		name      string
+		timestamp string
+	}{
+		{"no leading zero", "Fri, 4 Feb 2022 09:30:00 +1300"}, // https://benhoyt.com/writings/rss.xml
+		{"long month", "Mon, 10 June 2024 12:20:00 +0000"},    // https://www.claws-mail.org/releases.rss
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if _, err := parseTime(tt.timestamp); err != nil {
+				t.Errorf("parse %q: %v", tt.timestamp, err)
+			}
+		})
+	}
+}
