@@ -7,17 +7,17 @@ import (
 	bolt "go.etcd.io/bbolt"
 )
 
-var feedsBucket = []byte("feeds")
+var channelsBucket = []byte("channels")
 
-func (db *DB) SaveFeed(key []byte, feed *rss.Channel) error {
-	value, err := json.Marshal(feed)
+func (db *DB) SaveChannel(url string, channel *rss.Channel) error {
+	value, err := json.Marshal(channel)
 	if err != nil {
 		return err
 	}
 
 	err = db.raw.Update(func(tx *bolt.Tx) error {
-		bucket := tx.Bucket(feedsBucket)
-		if err := bucket.Put(key, value); err != nil {
+		bucket := tx.Bucket(channelsBucket)
+		if err := bucket.Put([]byte(url), value); err != nil {
 			return err
 		}
 
@@ -27,11 +27,11 @@ func (db *DB) SaveFeed(key []byte, feed *rss.Channel) error {
 	return err
 }
 
-func (db *DB) GetFeed(key []byte) (*rss.Channel, error) {
+func (db *DB) GetChannel(url string) (*rss.Channel, error) {
 	var channelBytes []byte
 	err := db.raw.View(func(tx *bolt.Tx) error {
-		if bucket := tx.Bucket(feedsBucket); bucket != nil {
-			channelBytes = bucket.Get(key)
+		if bucket := tx.Bucket(channelsBucket); bucket != nil {
+			channelBytes = bucket.Get([]byte(url))
 		}
 		return nil
 	})

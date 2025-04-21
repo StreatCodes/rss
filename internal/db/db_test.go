@@ -30,13 +30,13 @@ func TestSaveFeed(t *testing.T) {
 		t.Error(err)
 	}
 
-	feedKey := []byte("test")
-	err = db.SaveFeed(feedKey, &feed.Channel)
+	feedUrl := "http://example.com"
+	err = db.SaveChannel(feedUrl, &feed.Channel)
 	if err != nil {
 		t.Error(err)
 	}
 
-	retrievedFeed, err := db.GetFeed(feedKey)
+	retrievedFeed, err := db.GetChannel(feedUrl)
 	if err != nil {
 		t.Error(err)
 	}

@@ -5,7 +5,10 @@
             <img src="{{ .Image.Href }}" width="170" height="170" />
             <div>
                 <hgroup>
-                    <h2>{{ .Title }}</h2>
+                    <div class="flex">
+                        <h2>{{ .Title }}</h2>
+                        <a class="button">Episodes</a>
+                    </div>
                     <time datetime="{{ .PubDate.Format "2006-01-02T15:04:05Z07:00" }}">
                         Last updated {{ .PubDate | timeAgo }}
                     </time>

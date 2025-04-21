@@ -36,26 +36,8 @@ a {
     text-decoration: none;
     cursor: pointer;
     color: var(--peach);
-}
 
-header {
-    padding: 1rem;
-    display: flex;
-    justify-content: end;
-    align-items: center;
-    border-bottom: solid 1px var(--gray);
-
-    a.logo {
-        color: white;
-        line-height: 0;
-        margin-right: auto;
-
-        &:focus, &:hover {
-            color: var(--blue);
-        }
-    }
-
-    a.link {
+    &.button {
         background-color: white;
         color: var(--dark-gray);
         padding: .3rem .8rem;
@@ -76,6 +58,25 @@ header {
                 color: var(--blue);
                 border-color: var(--blue);
             }
+        }
+    }
+}
+
+
+header {
+    padding: 1rem;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    border-bottom: solid 1px var(--gray);
+
+    a.logo {
+        color: white;
+        line-height: 0;
+        margin-right: auto;
+
+        &:focus, &:hover {
+            color: var(--blue);
         }
     }
 }
@@ -237,6 +238,12 @@ main:has(.result)>hgroup.search-animation {
 
     hgroup {
         margin-bottom: 0.5rem;
+
+        .flex {
+            display: flex;
+            align-items: start;
+            justify-content: space-between;
+        }
 
         h2 {
             margin-bottom: 0;

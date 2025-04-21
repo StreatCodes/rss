@@ -17,7 +17,7 @@ func New(path string, mode os.FileMode, options *bolt.Options) (*DB, error) {
 	}
 
 	err = db.Update(func(tx *bolt.Tx) error {
-		tx.CreateBucketIfNotExists(feedsBucket)
+		tx.CreateBucketIfNotExists(channelsBucket)
 		return nil
 	})
 

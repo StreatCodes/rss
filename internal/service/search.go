@@ -11,7 +11,7 @@ func (service *Service) findChannel(query string) ([]rss.Channel, error) {
 	//If the search query is a URL then ingest the feed
 	if parsedURL, err := url.ParseRequestURI(query); err == nil {
 		//Check to see if we have the feed in the database
-		if channel, err := service.db.GetFeed([]byte(query)); channel != nil && err == nil {
+		if channel, err := service.db.GetChannel(parsedURL.String()); channel != nil && err == nil {
 			return []rss.Channel{*channel}, nil
 		}
 
@@ -26,8 +26,7 @@ func (service *Service) findChannel(query string) ([]rss.Channel, error) {
 			return nil, err
 		}
 
-		key := []byte(parsedURL.String())
-		err = service.db.SaveFeed(key, &feed.Channel)
+		err = service.db.SaveChannel(parsedURL.String(), &feed.Channel)
 		if err != nil {
 			return nil, err
 		}
