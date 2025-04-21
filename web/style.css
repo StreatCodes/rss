@@ -223,13 +223,17 @@ main:has(.result)>hgroup.search-animation {
     }
 }
 
-.results .result {
+.result {
     background-color: var(--black);
     display: flex;
     border-radius: 2rem;
     padding: 1rem;
     box-shadow: var(--shadow);
     margin-bottom: 1rem;
+
+    &>div {
+        width: 100%;
+    }
 
     img {
         border-radius: 2rem;

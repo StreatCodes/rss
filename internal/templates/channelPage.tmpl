@@ -1,7 +1,11 @@
 {{ define "channelPage" }}
 {{ template "header" }}
 <main class="search-area">
-    Channels todo {{.Channel.Title}}
+    {{ template "channel" . }}
+    TODO Episodes:
+    {{range .Channel.Items}}
+        <p>{{.Title}}</p>
+    {{end}}
 </main>
 {{ template "footer" }}
 {{ end }}

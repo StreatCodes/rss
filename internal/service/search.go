@@ -9,8 +9,9 @@ import (
 )
 
 type ChannelResult struct {
-	ChannelUrl string
-	Channel    rss.Channel
+	ShowSubscribeButton bool
+	ChannelUrl          string
+	Channel             rss.Channel
 }
 
 func (service *Service) findChannel(query string) ([]ChannelResult, error) {

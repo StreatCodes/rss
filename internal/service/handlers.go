@@ -2,11 +2,10 @@ package service
 
 import (
 	"html/template"
+	"log"
 	"net/http"
 	"net/url"
 	"strings"
-
-	"github.com/streatCodes/rss/rss"
 )
 
 var templateFuncs = template.FuncMap{
@@ -14,14 +13,17 @@ var templateFuncs = template.FuncMap{
 	"pathEscape": url.PathEscape,
 }
 
-func render(w http.ResponseWriter, name string, data any) {
+func render(w http.ResponseWriter, name string, data any) error {
 	tmpl := template.New("").Funcs(templateFuncs)
 	tmpl = template.Must(tmpl.ParseGlob("internal/templates/*.tmpl"))
-	tmpl.ExecuteTemplate(w, name, data)
+	return tmpl.ExecuteTemplate(w, name, data)
 }
 
 func (service *Service) homeHandler(w http.ResponseWriter, r *http.Request) {
-	render(w, "home", nil)
+	err := render(w, "homePage", nil)
+	if err != nil {
+		log.Printf("Error executing template - %s", err)
+	}
 }
 
 func (service *Service) searchHandler(w http.ResponseWriter, r *http.Request) {
@@ -37,22 +39,23 @@ func (service *Service) searchHandler(w http.ResponseWriter, r *http.Request) {
 		render(w, "results", results)
 		return
 	}
-	render(w, "home", results)
-}
-
-type ChannelPage struct {
-	ShowSubscribeButton bool
-	Channel             *rss.Channel
+	err = render(w, "homePage", results)
+	if err != nil {
+		log.Printf("Error executing template - %s", err)
+	}
 }
 
 func (service *Service) channelHandler(w http.ResponseWriter, r *http.Request) {
-	channelPage := ChannelPage{ShowSubscribeButton: true}
+	channelPage := ChannelResult{ShowSubscribeButton: true}
 	channelUrl := strings.TrimPrefix(r.URL.Path, "/channel/")
 
 	//Check to see if we have the feed in the database
 	if channel, err := service.db.GetChannel(channelUrl); channel != nil && err == nil {
-		channelPage.Channel = channel
+		channelPage.Channel = *channel
 	}
 
-	render(w, "channelPage", channelPage)
+	err := render(w, "channelPage", channelPage)
+	if err != nil {
+		log.Printf("Error executing template - %s", err)
+	}
 }
