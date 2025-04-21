@@ -1,22 +1,31 @@
 package service
 
 import (
+	"log"
 	"net/http"
 	"net/url"
 
 	"github.com/streatCodes/rss/rss"
 )
 
-func (service *Service) findChannel(query string) ([]rss.Channel, error) {
+type ChannelResult struct {
+	ChannelUrl string
+	Channel    rss.Channel
+}
+
+func (service *Service) findChannel(query string) ([]ChannelResult, error) {
 	//If the search query is a URL then ingest the feed
 	if parsedURL, err := url.ParseRequestURI(query); err == nil {
+		channelUrl := parsedURL.String()
+
 		//Check to see if we have the feed in the database
-		if channel, err := service.db.GetChannel(parsedURL.String()); channel != nil && err == nil {
-			return []rss.Channel{*channel}, nil
+		if channel, err := service.db.GetChannel(channelUrl); channel != nil && err == nil {
+			return []ChannelResult{{ChannelUrl: channelUrl, Channel: *channel}}, nil
 		}
 
 		//Fetch from the internet
-		res, err := http.Get(query)
+		log.Printf("Indexing channel %s\n", channelUrl)
+		res, err := http.Get(channelUrl)
 		if err != nil {
 			return nil, err
 		}
@@ -26,12 +35,12 @@ func (service *Service) findChannel(query string) ([]rss.Channel, error) {
 			return nil, err
 		}
 
-		err = service.db.SaveChannel(parsedURL.String(), &feed.Channel)
+		err = service.db.SaveChannel(channelUrl, &feed.Channel)
 		if err != nil {
 			return nil, err
 		}
-		return []rss.Channel{feed.Channel}, nil
+		return []ChannelResult{{ChannelUrl: channelUrl, Channel: feed.Channel}}, nil
 	}
 
-	return []rss.Channel{}, nil
+	return []ChannelResult{}, nil
 }

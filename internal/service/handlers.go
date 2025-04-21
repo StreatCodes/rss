@@ -3,16 +3,12 @@ package service
 import (
 	"html/template"
 	"net/http"
-
-	"github.com/streatCodes/rss/rss"
+	"net/url"
 )
 
-type TemplateData struct {
-	Results []rss.Channel
-}
-
 var templateFuncs = template.FuncMap{
-	"timeAgo": timeAgo,
+	"timeAgo":    timeAgo,
+	"pathEscape": url.PathEscape,
 }
 
 func render(w http.ResponseWriter, name string, data any) {
@@ -29,14 +25,14 @@ func (service *Service) searchHandler(w http.ResponseWriter, r *http.Request) {
 	isHtmx := r.Header.Get("HX-Request") == "true"
 	searchQuery := r.URL.Query().Get("search")
 
-	channels, err := service.findChannel(searchQuery)
+	results, err := service.findChannel(searchQuery)
 	if err != nil {
 		panic("TODO")
 	}
 
 	if isHtmx {
-		render(w, "results", channels)
+		render(w, "results", results)
 		return
 	}
-	render(w, "home", TemplateData{Results: channels})
+	render(w, "home", results)
 }
