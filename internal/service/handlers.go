@@ -4,6 +4,9 @@ import (
 	"html/template"
 	"net/http"
 	"net/url"
+	"strings"
+
+	"github.com/streatCodes/rss/rss"
 )
 
 var templateFuncs = template.FuncMap{
@@ -35,4 +38,21 @@ func (service *Service) searchHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	render(w, "home", results)
+}
+
+type ChannelPage struct {
+	ShowSubscribeButton bool
+	Channel             *rss.Channel
+}
+
+func (service *Service) channelHandler(w http.ResponseWriter, r *http.Request) {
+	channelPage := ChannelPage{ShowSubscribeButton: true}
+	channelUrl := strings.TrimPrefix(r.URL.Path, "/channel/")
+
+	//Check to see if we have the feed in the database
+	if channel, err := service.db.GetChannel(channelUrl); channel != nil && err == nil {
+		channelPage.Channel = channel
+	}
+
+	render(w, "channelPage", channelPage)
 }

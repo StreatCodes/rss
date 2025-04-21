@@ -25,6 +25,7 @@ func New(dbPath string) (*Service, error) {
 	mux.Handle("GET /static/", http.StripPrefix("/static/", http.FileServer(http.Dir("web"))))
 	mux.HandleFunc("GET /", service.homeHandler)
 	mux.HandleFunc("GET /search", service.searchHandler)
+	mux.HandleFunc("GET /channel/", service.channelHandler)
 
 	addr := ":8080"
 	log.Printf("Server running at %s", addr)
