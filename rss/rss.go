@@ -7,6 +7,9 @@ import (
 	"time"
 )
 
+// MediaType is RSS' MIME media type.
+const MediaType = "application/rss+xml"
+
 type RSS struct {
 	Version string  `xml:"version,attr"`
 	Channel Channel `xml:"channel"`
