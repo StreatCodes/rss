@@ -2,6 +2,7 @@ package db
 
 import (
 	"encoding/json"
+	"errors"
 
 	"github.com/streatCodes/rss/rss"
 	bolt "go.etcd.io/bbolt"
@@ -27,11 +28,16 @@ func (db *DB) SaveChannel(url string, channel *rss.Channel) error {
 	return err
 }
 
+var ErrNotExist = errors.New("channel does not exist")
+
 func (db *DB) GetChannel(url string) (*rss.Channel, error) {
 	var channelBytes []byte
 	err := db.raw.View(func(tx *bolt.Tx) error {
 		if bucket := tx.Bucket(channelsBucket); bucket != nil {
 			channelBytes = bucket.Get([]byte(url))
+		}
+		if len(channelBytes) == 0 {
+			return ErrNotExist
 		}
 		return nil
 	})
