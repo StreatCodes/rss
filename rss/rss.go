@@ -2,9 +2,13 @@ package rss
 
 import (
 	"encoding/xml"
+	"fmt"
 	"io"
 	"time"
 )
+
+// MediaType is RSS' MIME media type.
+const MediaType = "application/rss+xml"
 
 type RSS struct {
 	Version string  `xml:"version,attr"`
@@ -44,16 +48,16 @@ func (ch *Channel) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 	}
 
 	if aux.PubDate != "" {
-		t, err := time.Parse(time.RFC1123Z, aux.PubDate)
+		t, err := parseTime(aux.PubDate)
 		if err != nil {
-			return err
+			return fmt.Errorf("parse published date %q: %w", aux.PubDate, err)
 		}
 		ch.PubDate = t
 	}
 	if aux.LastBuildDate != "" {
-		t, err := time.Parse(time.RFC1123Z, aux.LastBuildDate)
+		t, err := parseTime(aux.LastBuildDate)
 		if err != nil {
-			return err
+			return fmt.Errorf("parse last build date %q: %w", aux.LastBuildDate, err)
 		}
 		ch.LastBuildDate = t
 	}
@@ -98,9 +102,9 @@ func (it *Item) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 		return err
 	}
 	if aux.PubDate != "" {
-		t, err := time.Parse(time.RFC1123Z, aux.PubDate)
+		t, err := parseTime(aux.PubDate)
 		if err != nil {
-			return err
+			return fmt.Errorf("parse published date %q: %w", aux.PubDate, err)
 		}
 		it.PubDate = t
 	}
@@ -117,4 +121,20 @@ func Decode(r io.Reader) (*RSS, error) {
 		return nil, err
 	}
 	return &rss, nil
+}
+
+func parseTime(s string) (time.Time, error) {
+	layouts := []string{
+		time.RFC1123Z, time.RFC1123,
+		time.RFC822Z, time.RFC822,
+		"Mon, _2 Jan 2006 15:04:05 -0700",     // rfc1123z with no trailing zero
+		"Mon, _2 January 2006 15:04:05 -0700", // long month name
+	}
+	for _, l := range layouts {
+		t, err := time.Parse(l, s)
+		if err == nil {
+			return t, nil
+		}
+	}
+	return time.Time{}, fmt.Errorf("unsupported layout")
 }

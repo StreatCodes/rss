@@ -1,6 +1,7 @@
 package service
 
 import (
+	"fmt"
 	"html/template"
 	"log"
 	"net/http"
@@ -32,7 +33,11 @@ func (service *Service) searchHandler(w http.ResponseWriter, r *http.Request) {
 
 	results, err := service.findChannel(searchQuery)
 	if err != nil {
-		panic("TODO")
+		msg := fmt.Sprintf("find %q: %v", searchQuery, err)
+		log.Println(msg)
+		w.WriteHeader(http.StatusInternalServerError)
+		render(w, "error", msg)
+		return
 	}
 
 	if isHtmx {
@@ -49,12 +54,17 @@ func (service *Service) channelHandler(w http.ResponseWriter, r *http.Request) {
 	channelPage := ChannelResult{ShowSubscribeButton: true}
 	channelUrl := strings.TrimPrefix(r.URL.Path, "/channel/")
 
-	//Check to see if we have the feed in the database
-	if channel, err := service.db.GetChannel(channelUrl); channel != nil && err == nil {
-		channelPage.Channel = *channel
+	// Check to see if we have the feed in the database
+	channel, err := service.db.GetChannel(channelUrl)
+	if err != nil {
+		msg := fmt.Sprintf("get %q: %v", channelUrl, err)
+		log.Println(msg)
+		w.WriteHeader(http.StatusInternalServerError)
+		render(w, "error", msg)
+		return
 	}
-
-	err := render(w, "channelPage", channelPage)
+	channelPage.Channel = *channel
+	err = render(w, "channelPage", channelPage)
 	if err != nil {
 		log.Printf("Error executing template - %s", err)
 	}
